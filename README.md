@@ -1,14 +1,20 @@
-# Team High Five
-Project Title: Business partner
+#Team High Five
+## Project Title: 
+Business partner
 
-Introduction:
+##Introduction:
 
-Concept: 
+##Concept: 
 
-Team members: 
-Hui Ee Chua
-Mehroz Abbasi
-Haoxiang Zheng
-Kaho Ha
-Yaxin Cui
+##Team members: 
+-Hui Ee Chua
+-Mehroz Abbasi
+-Haoxiang Zheng
+-Kaho Ha
+-Yaxin Cui
 
+##Communications:
+
+##Plan: 
+
+##Tags: 
