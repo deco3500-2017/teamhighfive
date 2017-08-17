@@ -22,11 +22,11 @@ that apply to, will inform your concept & approach.
 
  Who is on your team, what are their responsibilities, and how will you work together? List all the
 members and their course code. Identify:
-• Who will lead the team and manage the project;
-• Who is responsible for logistics e.g. equipment, meetings, transport, etc;
-• Who fills key roles, e.g. back end, front end, content, design;
-• How will decisions be made;
-• How will the team handle poor performance and resolve conflicts. 
+- Who will lead the team and manage the project;
+- Who is responsible for logistics e.g. equipment, meetings, transport, etc;
+- Who fills key roles, e.g. back end, front end, content, design;
+- How will decisions be made;
+- How will the team handle poor performance and resolve conflicts. 
 
 
 ## Communications:
@@ -38,9 +38,9 @@ communication and / or file sharing?
 
 ## Plan: 
  Identify the key tasks that need to be completed and when. Identify:
-• Project phases e.g. research; requirements; design; construction;
-• Key deliverables for each phase (Milestones) ; 
-• Resources – equipment or other tools/people you might need. 
+- Project phases e.g. research; requirements; design; construction;
+- Key deliverables for each phase (Milestones) ; 
+- Resources – equipment or other tools/people you might need. 
 
 
 ## Tags: 
