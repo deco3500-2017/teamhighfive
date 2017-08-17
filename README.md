@@ -13,12 +13,23 @@ that apply to, will inform your concept & approach.
 
 
 
-## Team members: 
-- Hui Ee Chua
-- Mehroz Abbasi
-- Haoxiang Zheng
-- Kaho Ha
-- Yaxin Cui
+## Team roles and resposibilities: 
+Hui Ee Chua || 43863480 || Front-end developer
+Responsible for any front end development for the application and helping team leader managing the team to ensure the project can proceed as planned.
+
+Mehroz Abbasi || (student number) || Content investigator and mobile application developer 
+Responsible for creating the mobile application and finding new technologies that support the creation for the app.
+
+Haoxiang Zheng || (student number) || Front-end and back-end developer
+Responsible for any front end development and managing the back end functionality for the application.
+
+Kaho Ha || (student number) || Designer and content investigator
+Responsible for designing and finding new technologies that support the creation of the app. Create team discussion and brainstorming. 
+
+Yaxin Cui || (student number) || Designer and front-end developer
+Responsible for designing and front-end developing for the project. 
+
+
 
  Who is on your team, what are their responsibilities, and how will you work together? List all the
 members and their course code. Identify:
