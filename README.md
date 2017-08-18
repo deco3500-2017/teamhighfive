@@ -25,26 +25,26 @@ Kaho Ha | Content Cell | Content Cell | Designer, Content Investigator | Content
 Yaxin Cui | Content Cell | Content Cell | Designer, Front-end | Content Cell
 
 
-Front-end developer: Responsible for any front end development for the application
+**Front-end developer:** Responsible for any front end development for the application
 
-Content investigator: Finding new technologies that support the creation of the app. Create team discussion and brainstorming. 
+**Content investigator:** Finding new technologies that support the creation of the app. Create team discussion and brainstorming. 
 
-Mobile application developer: Responsible for developing the mobile application 
+**Mobile application developer:** Responsible for developing the mobile application 
 
-Back-end developer: Responsible for managing the back end functionality for the application.
+**Back-end developer:** Responsible for managing the back end functionality for the application.
 
-Designer: Responsible for designing all the UI content for application. 
-
-
-**Logistics** 
+**Designer:** Responsible for designing all the UI content for application. 
 
 
-
-**Decision Making:** 
+### Logistics:
 
 
 
-**Conflict Resolution:**
+### Decision Making: 
+
+
+
+### Conflict Resolution:
 
 Underperformance
 
