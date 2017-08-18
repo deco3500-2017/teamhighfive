@@ -14,20 +14,39 @@ that apply to, will inform your concept & approach.
 
 
 ## Team roles and resposibilities: 
-Hui Ee Chua || 43863480 || Front-end developer
-Responsible for any front end development for the application and helping team leader managing the team to ensure the project can proceed as planned.
 
-Mehroz Abbasi || (student number) || Content investigator and mobile application developer 
-Responsible for creating the mobile application and finding new technologies that support the creation for the app.
 
-Haoxiang Zheng || (student number) || Front-end and back-end developer
-Responsible for any front end development and managing the back end functionality for the application.
+Name | Student Number | Email | Roles | Skills 
+-- | --- | --- | --- | --- 
+Hui Ee Chua | 43863480 | hui_ee_chua@hotmail.com | Front-end, Back-end | HTML, CSS, Java, JavaScript, Python, Graphic Design
+Mehroz Abbasi | Content Cell | Content Cell | Content Investigator, Mobile app developer | Content Cell
+Haoxiang Zheng | Content Cell | Content Cell | Front-end, Back-end | Content Cell
+Kaho Ha | Content Cell | Content Cell | Designer, Content Investigator | Content Cell
+Yaxin Cui | Content Cell | Content Cell | Designer, Front-end | Content Cell
 
-Kaho Ha || (student number) || Designer and content investigator
-Responsible for designing and finding new technologies that support the creation of the app. Create team discussion and brainstorming. 
 
-Yaxin Cui || (student number) || Designer and front-end developer
-Responsible for designing and front-end developing for the project. 
+Front-end developer: Responsible for any front end development for the application
+
+Content investigator: Finding new technologies that support the creation of the app. Create team discussion and brainstorming. 
+
+Mobile application developer: Responsible for developing the mobile application 
+
+Back-end developer: Responsible for managing the back end functionality for the application.
+
+Designer: Responsible for designing all the UI content for application. 
+
+
+**Logistics** 
+
+
+
+**Decision Making:** 
+
+
+
+**Conflict Resolution:**
+
+Underperformance
 
 
 
