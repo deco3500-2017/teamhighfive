@@ -60,10 +60,10 @@ members and their course code. Identify:
 
 
 ## Communications:
- Where and when will your team meet and how will you all communicate? Where will files 1
-be stored and shared? What are the file naming conventions?
-Identify the social platform/s your team has adopted and explain the choice. How will it facilitate
-communication and / or file sharing?
+ The team will maintain the meeting in every weekly scheduled studio session and will flexibly arrange additional meetings as the work deems it necessary. Facebook is the main online channel for the team to communicate, adopted, explain the choice. The email will be used for sending information. Team members will be expected to check these communication channels frequently. 
+
+Files will be stored in google drive which will be sharing to all the group members. Content and purpose will be used as naming conventions for files. 
+
 
 
 ## Plan: 
