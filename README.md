@@ -3,13 +3,88 @@
 Business partner
 
 ## Introduction:
-What is your project and what dilemma does it aim to address. 
+
+
+The project entails an online social platform that provides solution to new entrepreneurs and
+aspiring businessmen to reach like-minded people to team up, share funds and start a business.
+As part of the community dilemma, the social community makes it easy for anyone looking to
+start a business or learn more by communicating to other experienced business professionals.
+The social platform would also feature a mobile app that mimics all web features and more.
 
 
 ## Concept: 
-outline the idea and the rationale behind it. Define the project aims and audience and identify how
-your idea is diferent from / improves upon other current oferings. Identify areas of social & mobile theory
-that apply to, will inform your concept & approach.
+
+
+Many young entrepreneurs and students have brilliant business ideas that they wish to start.
+However, they lack the funds to start over or they are simply in need for a partnership with some
+other skill set. It has always been a challenge to find a platform dedicated to the needs of young
+entrepreneurs. Thus, this forms the rationale of the project; a dedicated business platform to allow
+people to form partnerships, discuss and form businesses.
+
+
+The project aims to fill in the gap between LinkedIn and Kickstarter, that are primarily focused on
+employment and crowdfunding respectively. Thus, it is different from LinkedIn as it is not focused
+on employment but rather the initial startup phase of a business which includes forming
+partnerships, sharing mutual funds and discussing confidential ideas under strict confidentiality.
+
+
+The project also differs from Kickstarter as the project does not rely on crowdfunding but rather
+sharing funds by mutual agreement between two or more parties.
+The project will harness the power of social and mobile computing to achieve its aims. An online
+website will be established that provides its users with a directory search of user profiles,
+discussion forums, private message (confidential), partnership formation and fund sharing
+agreements. A mobile app will mimic all the web features in addition to the convenience a mobile
+phone offers.
+
+
+The approach to the concept is as follows:
+
+
+### User Profiles
+
+
+Users would be able to create accounts (profiles) for interaction. Account creation would only be
+possible with a valid ID card and bank account.
+
+
+### Discussion forums
+
+
+People would use the discussion forums to share their past experiences and learn from other
+business professionals publicly
+
+
+### Private messages (confidential)
+
+
+Most business starters are hesitant to share their ideas publicly in fear of a cloned idea. However,
+they need to share their idea first in order to form potential partnerships. Thus, the user would be
+able to private message and engage with another party one-to-one with brief details. This
+conversation will be recorded for both parties and the original idea would be recorded beforehand
+which may be used in the court of law as evidence of the original idea, before the conversation
+began.
+
+
+### Partnership & funds
+
+
+Users may form a partnership after engaging in private messages and settling on an idea. By
+forming a team, they would be able to sign legal documents online to confirm their partnership
+(which will be stored on the servers as record for both parties). They will be able to declare their
+fund sharing plans and related financial decisions online (which will also be recorded and stored
+on server). Finally, the transactions will be possible on the platform and the bank details of users
+would already be in the database at the time of user registration.
+
+
+### Anti-fraud measures
+
+
+Unfortunately, it is possible that people may attempt to fraud. However, the recording of
+conversations, a valid ID card, bank account, legal documents and other required information is
+stored at each step to minimise fraud activities. All information would be provided for legal
+defence.
+
+
 
 
 
