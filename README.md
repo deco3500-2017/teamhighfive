@@ -200,5 +200,6 @@ For our design part, Adobe Ed could be our choice. It is a lightweight UI design
 ## Tags: 
  Tag your proposed idea with 5 key concepts from social and mobile lectures (e.g. awareness,
 Collaboration, CSCW) and 2 keywords related to your domain.
+#Business #Mobile #Application
 
 
