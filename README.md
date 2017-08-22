@@ -89,7 +89,7 @@ defence.
 Name | Student Number | Email | Roles | Skills 
 -- | --- | --- | --- | --- 
 Hui Ee Chua | 43863480 | hui_ee_chua@hotmail.com | Front-end, Back-end | HTML, CSS, Java, JavaScript, Python, Graphic Design
-Mehroz Abbasi | 43515181 | mehroz.abbasi@uq.net.au | Investigator, Mobile app developer | Apple Swift, iOS App Design, UX Design|
+Mehroz Abbasi | 43515181 | mehroz.abbasi@uq.net.au | Content Investigator, Mobile app developer | Apple Swift, iOS App Design, UX Design|
 Haoxiang Zheng | 44256810 | zhxcnhn@gmail.com | Front-end, Back-end | Java, HTML5, CSS, JavaScript, jQuery, UI Design
 Kaho Ha | 43995783 | xiajiahao1229@gmail.com | Designer, Content Investigator | Graphic design, HTML, CSS, UI Deisgn, Python, Java
 Yaxin Cui | 44450672 | cuiyaxin.tarcy@gmail.com | Designer, Front-end | HTML, CSS, Javascript, Python, Graphic Interactive Design
@@ -135,27 +135,27 @@ Files will be stored in google drive which will be sharing to all the group memb
 ## Plan: 
 To develop this B2B application, the development cycle includes numerous stages, such as research, requirement, design and construction. Our team should follow the plan of the project life-cycle in order to achieve the final success in rest of the semester. In following sessions, detailed project plan will be list.
 
-### Project phases
+## Project phases
 
-#### Research
+### Research
 Firstly, we need have a deep understanding of our chosen domain and idea. Our research should include the existing similar product in order to understand the differences between our idea and the product in the market and think about our strength.
 Our research is not only limited to the background information gathering, but will also develop paper or digital prototypes, which are able to help us to make improvement on our idea by going through tests.
 
-#### Requirement 
+### Requirement 
 In this stage, we need to gather the requirement from our target audience. A clearly requirements instruction will be very helpful for the development process. The requirements could be collected through the following methods.
 
-##### Primary research from Internet
+#### Primary research from Internet
 We are able to search from Internet or other existing report to gather the existing user behavior study.
 
-##### User survey & interview
+#### User survey & interview
 
 We will launch some quick surveys and interview questions. We can collect information directly from our target audience.
 
-##### User testing
+#### User testing
 Provide user user opportunity to do testing through paper prototype. We are able to improve our user interface based on the result of test.
 
 
-#### Design
+### Design
 In this stage, we are likely to use paper prototype to design our interface and layout, which is friendly to modify and has lesser cost. 
 
 ### Construction
