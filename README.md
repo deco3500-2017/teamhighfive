@@ -163,39 +163,29 @@ Coding will be used in this situation in order to produce more natural and worki
 
 ### Project milestones 
 
-Task | Delivery Date 
--- | --- | 
-Research |  
-Idea confirmation |  Week 4
-Requirement gathering |  Week 5
-Requirement gathering |  Week 5
-Requirement gathering |  Week 5
-Requirement gathering |  Week 5
-Requirement gathering |  Week 5
-Research
+**Research
+
+- [ ] Idea confirmation
+
+**Requirement
+
+- [ ] Requirement gathering
+- [ ] Product backlog
+
+**Design
+
+- [ ] Interface designing
+- [ ] Database designing
+- [ ] Paper prototype designing
+- [ ] User feedback (Critique)
+
+**Construction
+
+- [ ] Application development
+- [ ] Implement functionality
+- [ ] Final prototype
 
 
-Requirements
-Requirement gathering
-
-Product backlog
-Week 5
-Design
-Interface designing
-Week 6
-Database designing
-Week 7
-Paper prototype designing
-Week 7
-User feedback (Critique)
-Week 8
-Construction
-Application development
-Week 9
-Implement functionality
-Week 11
-Final prototype
-Week 12
 
 ### Project Resources
 
