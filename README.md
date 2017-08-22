@@ -163,14 +163,21 @@ Coding will be used in this situation in order to produce more natural and worki
 
 ### Project milestones 
 
-Task
-Delivery Date
+Task | Delivery Date 
+-- | --- | 
+Research |  
+- [ ] Idea confirmation |  Week 4
+Requirement gathering |  Week 5
+Requirement gathering |  Week 5
+Requirement gathering |  Week 5
+Requirement gathering |  Week 5
+Requirement gathering |  Week 5
 Research
-Idea confirmation
-Week 4
+
+
 Requirements
 Requirement gathering
-Week 5
+
 Product backlog
 Week 5
 Design
