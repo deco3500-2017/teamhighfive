@@ -1,6 +1,6 @@
 # Team High Five
 ## Project Title: 
-### Business partner
+### Business Networking
 
 ## Introduction:
 
@@ -89,7 +89,7 @@ defence.
 Name | Student Number | Email | Roles | Skills 
 -- | --- | --- | --- | --- 
 Hui Ee Chua | 43863480 | hui_ee_chua@hotmail.com | Front-end, Back-end | HTML, CSS, Java, JavaScript, Python, Graphic Design
-Mehroz Abbasi | Content Cell | Content Cell | Content Investigator, Mobile app developer | Content Cell
+Mehroz Abbasi | Content 43515181 | Content mehroz.abbasi@uq.net.au | Content Investigator, Mobile app developer | Content Apple Swift, iOS App Design, UX Design|
 Haoxiang Zheng | 44256810 | zhxcnhn@gmail.com | Front-end, Back-end | Java, HTML5, CSS, JavaScript, jQuery, UI Design
 Kaho Ha | 43995783 | xiajiahao1229@gmail.com | Designer, Content Investigator | Graphic design, HTML, CSS, UI Deisgn, Python, Java
 Yaxin Cui | 44450672 | cuiyaxin.tarcy@gmail.com | Designer, Front-end | HTML, CSS, Javascript, Python, Graphic Interactive Design
@@ -196,16 +196,6 @@ For our design part, Adobe Ed could be our choice. It is a lightweight UI design
 ## Tags: 
  Tag your proposed idea with 5 key concepts from social and mobile lectures (e.g. awareness,
 Collaboration, CSCW) and 2 keywords related to your domain.
-## Social and Mobile: 
-#business community 
-#collaboration
-#social network
-#mobile app
-#CSCW
-
-## Domain: 
-#business
-#entrepreneurship
-
+#Business #Mobile #Application
 
 
