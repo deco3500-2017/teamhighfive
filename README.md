@@ -42,20 +42,17 @@ The approach to the concept is as follows:
 
 ### User Profiles
 
-
 Users would be able to create accounts (profiles) for interaction. Account creation would only be
 possible with a valid ID card and bank account.
 
 
 ### Discussion forums
 
-
 People would use the discussion forums to share their past experiences and learn from other
 business professionals publicly
 
 
 ### Private messages (confidential)
-
 
 Most business starters are hesitant to share their ideas publicly in fear of a cloned idea. However,
 they need to share their idea first in order to form potential partnerships. Thus, the user would be
@@ -67,7 +64,6 @@ began.
 
 ### Partnership & funds
 
-
 Users may form a partnership after engaging in private messages and settling on an idea. By
 forming a team, they would be able to sign legal documents online to confirm their partnership
 (which will be stored on the servers as record for both parties). They will be able to declare their
@@ -77,7 +73,6 @@ would already be in the database at the time of user registration.
 
 
 ### Anti-fraud measures
-
 
 Unfortunately, it is possible that people may attempt to fraud. However, the recording of
 conversations, a valid ID card, bank account, legal documents and other required information is
@@ -113,25 +108,21 @@ Yaxin Cui | 44450672 | cuiyaxin.tarcy@gmail.com | Designer, Front-end | HTML, CS
 
 ### Logistics:
 
+- All members are responsible for logistics. E.g.: meeting outside of workshop hours
+- All members are expected to have their own laptop or other electronic devices for working together during meeting
 
 
 ### Decision Making: 
-
+Decisions will be made collectively as a group ensuring every team member’s ideas are taken into account. 
+In case of discrepancies, the decision will be based on a voting system; in the case of a tied vote, we will consult with the tutors or the course coordinator to assist with any problematic decision.
 
 
 ### Conflict Resolution:
+The team will conduct an intervention with the poor performer in order to address their lack of contribution to the group. 
+The remainder of the group will decide if their reason/excuse is legitimate or understandable. 
+If so, the conflict is resolved. 
+If not, the team will reassign the work and course staff will be notified of the incident.
 
-Underperformance
-
-
-
- Who is on your team, what are their responsibilities, and how will you work together? List all the
-members and their course code. Identify:
-- Who will lead the team and manage the project;
-- Who is responsible for logistics e.g. equipment, meetings, transport, etc;
-- Who fills key roles, e.g. back end, front end, content, design;
-- How will decisions be made;
-- How will the team handle poor performance and resolve conflicts. 
 
 
 ## Communications:
