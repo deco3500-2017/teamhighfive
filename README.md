@@ -91,7 +91,7 @@ Name | Student Number | Email | Roles | Skills
 Hui Ee Chua | 43863480 | hui_ee_chua@hotmail.com | Front-end, Back-end | HTML, CSS, Java, JavaScript, Python, Graphic Design
 Mehroz Abbasi | Content Cell | Content Cell | Content Investigator, Mobile app developer | Content Cell
 Haoxiang Zheng | Content Cell | Content Cell | Front-end, Back-end | Content Cell
-Kaho Ha | Content Cell | Content Cell | Designer, Content Investigator | Content Cell
+Kaho Ha | 43995783 | xiajiahao1229@gmail.com | Designer, Content Investigator | Content Cell
 Yaxin Cui | 44450672 | cuiyaxin.tarcy@gmail.com | Designer, Front-end | HTML, CSS, Javascript, Python, Graphic Interactive Design
 
 
