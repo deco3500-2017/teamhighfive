@@ -163,20 +163,20 @@ Coding will be used in this situation in order to produce more natural and worki
 
 ### Project milestones 
 
-#####Research
+##### Research
 - [ ] Idea confirmation
 
-#####Requirement
+##### Requirement
 - [ ] Requirement gathering
 - [ ] Product backlog
 
-#####Design
+##### Design
 - [ ] Interface designing
 - [ ] Database designing
 - [ ] Paper prototype designing
 - [ ] User feedback (Critique)
 
-#####Construction
+##### Construction
 - [ ] Application development
 - [ ] Implement functionality
 - [ ] Final prototype
