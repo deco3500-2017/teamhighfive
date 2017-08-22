@@ -166,7 +166,7 @@ Coding will be used in this situation in order to produce more natural and worki
 Task | Delivery Date 
 -- | --- | 
 Research |  
-- [ ] Idea confirmation |  Week 4
+Idea confirmation |  Week 4
 Requirement gathering |  Week 5
 Requirement gathering |  Week 5
 Requirement gathering |  Week 5
