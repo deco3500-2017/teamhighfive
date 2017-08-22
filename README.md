@@ -1,6 +1,6 @@
 # Team High Five
 ## Project Title: 
-Business partner
+### Business partner
 
 ## Introduction:
 
