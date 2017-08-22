@@ -133,10 +133,71 @@ Files will be stored in google drive which will be sharing to all the group memb
 
 
 ## Plan: 
- Identify the key tasks that need to be completed and when. Identify:
-- Project phases e.g. research; requirements; design; construction;
-- Key deliverables for each phase (Milestones) ; 
-- Resources – equipment or other tools/people you might need. 
+To develop this B2B application, the development cycle includes numerous stages, such as research, requirement, design and construction. Our team should follow the plan of the project life-cycle in order to achieve the final success in rest of the semester. In following sessions, detailed project plan will be list.
+
+### Project phases
+
+#### Research
+Firstly, we need have a deep understanding of our chosen domain and idea. Our research should include the existing similar product in order to understand the differences between our idea and the product in the market and think about our strength.
+Our research is not only limited to the background information gathering, but will also develop paper or digital prototypes, which are able to help us to make improvement on our idea by going through tests.
+
+#### Requirement 
+In this stage, we need to gather the requirement from our target audience. A clearly requirements instruction will be very helpful for the development process. The requirements could be collected through the following methods.
+
+##### Primary research from Internet
+We are able to search from Internet or other existing report to gather the existing user behavior study.
+
+##### User survey & interview
+
+We will launch some quick surveys and interview questions. We can collect information directly from our target audience.
+
+##### User testing
+Provide user user opportunity to do testing through paper prototype. We are able to improve our user interface based on the result of test.
+
+
+#### Design
+In this stage, we are likely to use paper prototype to design our interface and layout, which is friendly to modify and has lesser cost. 
+
+#### Construction
+Coding will be used in this situation in order to produce more natural and working frontend interface.
+
+### Project milestones 
+
+Task
+Delivery Date
+Research
+Idea confirmation
+Week 4
+Requirements
+Requirement gathering
+Week 5
+Product backlog
+Week 5
+Design
+Interface designing
+Week 6
+Database designing
+Week 7
+Paper prototype designing
+Week 7
+User feedback (Critique)
+Week 8
+Construction
+Application development
+Week 9
+Implement functionality
+Week 11
+Final prototype
+Week 12
+
+### Project Resources
+
+Since we are trying to develop application on both web side and mobile side, multiple type of languages could be used in this project. PHP could be chosen as the web side development language, because it is a wide used programming language for web. It has a great extendibility and compatibility. For the frontend development, bunch of technologies could be used such as HTML5, CSS, JS, jQuery and JSON.
+
+For the mobile development, IOS could be our choice since some team member has previous experience on it.
+
+For our design part, Adobe Ed could be our choice. It is a lightweight UI design tool, which just same as sketch. It has great compatibility with Adobe series software such as Ai, Ps.
+
 
 
 ## Tags: 
