@@ -1,6 +1,6 @@
 # Team High Five
 ## Project Title: 
-### Business Networking
+### eBusiness
 
 ## Introduction:
 
@@ -196,7 +196,7 @@ For our design part, Adobe Ed could be our choice. It is a lightweight UI design
 ## Tags: 
 
 ### Social and Mobile
-#Business #Mobile #Application
+#Business #Mobile #Collaboration
 
 ### News
 #community #entrepreneurship
