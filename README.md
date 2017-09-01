@@ -199,6 +199,6 @@ For our design part, Adobe Ed could be our choice. It is a lightweight UI design
 #Business #Mobile #Application
 
 ### News
-#business #entrepreneurship
+#community #entrepreneurship
 
 
