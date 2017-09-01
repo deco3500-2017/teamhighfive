@@ -120,8 +120,7 @@ In case of discrepancies, the decision will be based on a voting system; in the 
 ### Conflict Resolution:
 The team will conduct an intervention with the poor performer in order to address their lack of contribution to the group. 
 The remainder of the group will decide if their reason/excuse is legitimate or understandable. 
-If so, the conflict is resolved. 
-If not, the team will reassign the work and course staff will be notified of the incident.
+If the conflict is not resolved, the team will reassign the work and course staff will be notified of the incident.
 
 
 
@@ -195,10 +194,8 @@ For our design part, Adobe Ed could be our choice. It is a lightweight UI design
 
 ## Tags: 
 
-### Social and Mobile
-#Business #Mobile #Collaboration
+#SocialMobile #Collaboration #Community #Awareness #CSCW
 
-### News
-#community #entrepreneurship
+#eBusiness #Entrepreneurship
 
 
