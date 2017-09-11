@@ -54,7 +54,8 @@ Our product could be an application that able to help adult people with their st
 
 From this user test, we are able to find the following issues that need to be enhanced.
 
-- Validation of user’s identity: People are always afraid to do business or share their mind with a stranger. A validation of user’s identity such as photo ID could help the user be more trustful.
+1. Validation of user’s identity
+People are always afraid to do business or share their mind with a stranger. A validation of user’s identity such as photo ID could help the user be more trustful.
 
 
 - Validation of user’s certificates
