@@ -2,6 +2,9 @@
 We have done some users testing with our current mock-ups prototype before the week 8 stand up workshop session. We invited 5 people from different industries to do the user testing and survey after that. This prototype is aimed to let user test the main functionality and interface of our application. 
 
 
+Prototype link: https://xd.adobe.com/view/e699f7b7-7a29-40a6-b1e5-e881c11f6ed1/
+
+
 #### Target users/audience:
 Our target users are those who intended to start up a business and look for business idea/ business partner/ investor. 
 
