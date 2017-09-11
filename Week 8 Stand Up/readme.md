@@ -44,6 +44,7 @@ In this survey we also collected some demographics about users to make a compari
 Interface feedbacks:
 
 > “This interface is very simple and clean. I like hows the search box working as it will show result in list with relevant information.” 
+
 > "First impression of interface is nice and clean. But colour of text in front page is not appropriate in my personal view. Hope more function will be implemented in next time"
 
 
