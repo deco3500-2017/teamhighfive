@@ -54,9 +54,7 @@ Our product could be an application that able to help adult people with their st
 
 From this user test, we are able to find the following issues that need to be enhanced.
 
-- Validation of user’s identity
-
-People are always afraid to do business or share their mind with a stranger. A validation of user’s identity such as photo ID could help the user be more trustful.
+- Validation of user’s identity: People are always afraid to do business or share their mind with a stranger. A validation of user’s identity such as photo ID could help the user be more trustful.
 
 
 - Validation of user’s certificates
@@ -69,7 +67,7 @@ People may choose their start-up partner because of their their professional kno
 About login system, user may want to know what is the privilege of becoming a member of our website. We need to think about the difference between the pages viewing by a member and a visitor. 
 
 
-- he color & text
+- The color & text
 
 Some interviewees have some complaint about the color. A little improvement about the design could be necessary in the future. In addition, we could reduce the saturation of some parts of UI in order to make user feel more comfortable.
 
