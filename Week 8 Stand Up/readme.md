@@ -48,6 +48,29 @@ Interface feedbacks:
 > "First impression of interface is nice and clean. But colour of text in front page is not appropriate in my personal view. Hope more function will be implemented in next time"
 
 
+#### Conclusion
+
+Our product could be an application that able to help adult people with their start-up business. They could be either looking for idea or business partners since all of our interviewees willing to get an idea or a partner as the first step of start-up business. Some of them may want to have a try on our product, but the ideas security of our application and usability of current prototype could limit our user.
+
+From this user test, we are able to find the following issues that need to be enhanced.
+
+1.	Validation of user’s identity
+People are always afraid to do business or share their mind with a stranger. A validation of user’s identity such as photo ID could help the user be more trustful.
+
+2.	Validation of user’s certificates
+People may choose their start-up partner because of their their professional knowledge and skills.  A validation of user’s certificates is necessary.
+
+3.	Login system
+About login system, user may want to know what is the privilege of becoming a member of our website. We need to think about the difference between the pages viewing by a member and a visitor. 
+
+4.	The color & text
+Some interviewees have some complaint about the color. A little improvement about the design could be necessary in the future. In addition, we could reduce the saturation of some parts of UI in order to make user feel more comfortable.
+
+5.	Filter of searching function
+A filter with more choice will be definitely helpful for the user experience.
+
+
+
 
 #### Milestones before next stand up:
 - Design a new questionnaire and post it to slack and other community place for larger range of users and data will be collect and analyse. 
@@ -59,6 +82,6 @@ Name | Contributions
 -- | --- 
 Hui Ee Chua | persona, user testing, survey, documentation
 Mehroz Abbasi | design mobile prototype
-Haoxiang Zheng | 
+Haoxiang Zheng | user testing, documentation
 Kaho Ha | design web prototype, user testing, documentation
 Yaxin Cui |  persona, user interview
