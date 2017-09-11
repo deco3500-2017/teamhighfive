@@ -1,5 +1,6 @@
 #### User Testing & Goals:
 We have done some users testing with our current mock-ups prototype before the week 8 stand up workshop session. We invited 5 people from different industries to do the user testing and survey after that. This prototype is aimed to let user test the main functionality and interface of our application. 
+Before week 8 stand up workshop session, we have implemented a mock-ups prototype which in website style and invited 5 people from different industries as participants in our user testing session. Each participant will view the prototype firstly, and then we will have interviews with participants to talk about our project's prototype and gather user experience and feedback. For this time, our goals of prototype testing session, is to check whether participants could know the main functionality from website's prototype which could help us to figure what features might missing. On the other hand, we also wish to test about how participants would rate our application's interface. Since user interface is directly relatived with user experience when they use our application.
 
 
 Prototype link: https://xd.adobe.com/view/e699f7b7-7a29-40a6-b1e5-e881c11f6ed1/
