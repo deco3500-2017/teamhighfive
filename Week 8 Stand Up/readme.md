@@ -53,3 +53,12 @@ Interface feedbacks:
 - Design a new questionnaire and post it to slack and other community place for larger range of users and data will be collect and analyse. 
 - Do more research about existing solution to improve our project
 - Implement new prototype and update functionality
+
+#### Group Contributions
+Name | Contributions
+-- | --- 
+Hui Ee Chua | persona, user testing, survey, documentation
+Mehroz Abbasi | design mobile prototype
+Haoxiang Zheng | 
+Kaho Ha | design web prototype, user testing, documentation
+Yaxin Cui |  persona, user interview
