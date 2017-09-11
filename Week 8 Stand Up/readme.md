@@ -32,6 +32,17 @@ Our target users are those who intended to start up a business and look for busi
 #### Testing results & survey results: 
 
 This is our survey link https://goo.gl/forms/CmIsBhdRckqasn0t1
+Some users have given us useful feedback from survey. These feedbacks were about the functionality and interface design of our application. Some of the users were doubt about the account problem as they wanted account to have some identification and verification. 
+
+![alt text](https://github.com/deco3500-2017/teamhighfive/blob/master/Week%208%20Stand%20Up/12.png)
+
+
+In this survey we also collected some demographics about users to make a comparison with our target audience. Most of the users are student and some of them have casual work. In this prototype testing, our users were from different industries and most of them would like to start their own business and willing to use our platform. 
+
+![alt text](https://github.com/deco3500-2017/teamhighfive/blob/master/Week%208%20Stand%20Up/1.png)
+
+
+“This interface is very simple and clean. I like hows the search box working as it will show result in list with relevant information.” 
 
 
 
