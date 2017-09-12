@@ -32,7 +32,13 @@ Our target users are those who intended to start up a business and look for busi
 #### Testing results & survey results: 
 
 This is our survey link https://goo.gl/forms/CmIsBhdRckqasn0t1
+
+
 Some users have given us useful feedback from survey. These feedbacks were about the functionality and interface design of our application. Some of the users were doubt about the account problem as they wanted account to have some identification and verification. 
+
+
+User interviews: https://github.com/deco3500-2017/teamhighfive/blob/master/Week%208%20Stand%20Up/User%20interview_Week%208.pdf
+
 
 ![alt text](https://github.com/deco3500-2017/teamhighfive/blob/master/Week%208%20Stand%20Up/12.png)
 
