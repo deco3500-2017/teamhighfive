@@ -91,8 +91,8 @@ A filter with more choice will be definitely helpful for the user experience.
 - Design a new questionnaire and post it to slack and other community place for larger range of users and data will be collect and analyse. 
 - Do more research about existing solution to improve our project
 - Implement new prototype and update functionality
-- Start implement the promotional website
-- Write a plan for promotional video
+- Do a large range of user testing for new functional prototype
+- Write a plan for promotional video and website
 
 
 #### Group Contributions
