@@ -94,3 +94,7 @@ Mehroz Abbasi | design mobile prototype
 Haoxiang Zheng | user testing, documentation
 Kaho Ha | design web prototype, user testing, documentation
 Yaxin Cui |  persona, user interview
+
+#### Reference:
+Prototype image 1 https://jobsearch.gov.au/jobseeker-info/start-your-own-business
+Prototype image 2 https://www.google.com.au/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwi14emLzJzWAhVKgrwKHR9wD0kQjRwIBw&url=https%3A%2F%2Fwww.wawcu.com.au%2FProducts%2FBusiness.aspx&psig=AFQjCNGnGor0_9c-5qh2Cxv-gPUNKf7lkg&ust=1505198049022909
