@@ -13,24 +13,25 @@ Some tasks will be given step by step for user to test. The whole process will b
 **FOR WHO INTENDS TO START A BUSINESS:**
 1.	Read About Us page
 2.	Go back to home page
-3.	Register as a new user
-4.	Go to the discussion forum page
-5.	Read the instruction for using this app
-6.	Use the search function to search for (categories)
-7.	Select one of the results
-8.	Read their profile 
-9.	Start a conversation chat with this person
+3.	Read the instruction for using this app
+4.	Register as a new user
+5.	Use the search function to search for (categories)
+6.	Select one of the results
+7.	Read their profile 
+8.	Start a conversation chat with this person
 
 
 **FOR WHO WANTS TO FIND A JOB:**
 1.	Read About Us page
 2.	Go back to home page
-3.	Register as a new user
-4.	Go to the discussion forum page
-5.	Read the instruction for using this app
-6.	Set up their account profile
-7.	Add some tags about their skills in profile 
-8.	Post their profile to public search
+3.	Read the instruction for using this app
+4.	Register as a new user
+5.	Set up your account profile
+6.	Add some tags about your skills in profile 
+7.	Post your profile to public search
+8.  Go to the discussion forum page
+9.  Read the first post
+
 
 **Questionnaire for users to complete after the testing session.**
 
@@ -50,3 +51,5 @@ It includes Multiple Choices Question, Short Answer Question and Linear Scale Qu
 **_Additional questions might be asked when users doing the tasks._**
 
 https://goo.gl/forms/VHBIwYqgkEk421xG3 
+
+Thanks the participant for testing this prototype.
