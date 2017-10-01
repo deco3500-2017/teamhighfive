@@ -47,4 +47,6 @@ It includes Multiple Choices Question, Short Answer Question and Linear Scale Qu
 9.	How satisfied are you with the look and feel of this application? (LSQ)
 10.	Do you have any thoughts on how to improve this application? (SAQ)
 
+**_Additional questions might be asked when users doing the tasks._**
+
 https://goo.gl/forms/VHBIwYqgkEk421xG3 
