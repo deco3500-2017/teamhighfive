@@ -1,4 +1,4 @@
-Things need to complete before week 10 stand up:
+### Things need to complete before week 10 stand up:
 
 - Design a new questionnaire and post it to slack and other community place for larger range of users and data will be collect and analyse (Hui Ee Chua & Everyone)
 - Do more research about existing competitor and solution to improve our project (Hui Ee Chua)
@@ -8,7 +8,7 @@ Things need to complete before week 10 stand up:
 - Write a plan for promotional video and website (Mehroz Abbasi)
 - Start implement the website once the prototype user testing done (Haoxiang Zheng)
 
-Future plans:
+### Future plans:
 
 - Improvement for content by user feedback
 - Functional website and user testing 
