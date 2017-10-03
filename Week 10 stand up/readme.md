@@ -1,5 +1,5 @@
 #### Prototype:
-After week8 stand up, we upgrade our project's digital prototype to be more functional according previous participants' feedback. In this time we've added user certificate functions
+After week8 stand up, we upgrade our project's digital prototype to be more functional according previous participants' feedback. In this time we've added several new function to our prototype, such as 'upload certificate' and comprehense 'user profile' function. Here is the link to prototype.
 Prototype Link: https://xd.adobe.com/view/e699f7b7-7a29-40a6-b1e5-e881c11f6ed1/
 
 #### Individual work: 
