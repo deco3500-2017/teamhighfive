@@ -13,8 +13,9 @@ Prototype Link: https://xd.adobe.com/view/e699f7b7-7a29-40a6-b1e5-e881c11f6ed1/
 **Haoxiang Zheng** - In past a few weeks, I started to develop the basic web-base prototype. I have already built the static frontend web pages based on the digital prototype which done by Kaho. We have discussion of the layout of pages. I focused on the usibility. Some user test had been going through. In next stage, I am going to implement more functional web applications based on the new version of prototype. This is the link of our web prototype:
 https://deco3500-2017.github.io/teamhighfive/
 
-**Yaxin Cui** - In week 10, my main duty is user testing and I have done some research. But we want to finish the survey first and then IU will fouce more on this. And I have aslo help for designed the [questionnaire](https://goo.gl/forms/VHBIwYqgkEk421xG3
+**Yaxin Cui** - In the past weeks, my main duty is user testing and interview. I have done some face to face user interview and I have also done some research in order to compare the exit application to our concept. But we want to finish the survey first and then user testing will focus more on this. And I have also help for designed the [questionnaire](https://goo.gl/forms/VHBIwYqgkEk421xG3
 )
+In the future, I will continue in user testing and prefer the interview.
 
 
 
