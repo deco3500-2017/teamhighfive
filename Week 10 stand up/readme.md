@@ -14,7 +14,8 @@ Prototype Link: https://xd.adobe.com/view/e699f7b7-7a29-40a6-b1e5-e881c11f6ed1/
 
 *My task for next:*
 
-**Yaxin Cui** - In week 10, my main duty is user testing and I have done some research
+**Yaxin Cui** - In week 10, my main duty is user testing and I have done some research. But we want to finish the survey first and then IU will fouce more on this. And I have aslo help for designed the [questionnaire](https://goo.gl/forms/VHBIwYqgkEk421xG3
+)
 
 
 
