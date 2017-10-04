@@ -14,9 +14,9 @@ Prototype Link: https://xd.adobe.com/view/e699f7b7-7a29-40a6-b1e5-e881c11f6ed1/
 
 *My task for next:*
 
-**Yaxin Cui** - 
+**Yaxin Cui** - In week 10, my main duty is user testing and I have done some research
 
-*My task for next:*
+
 
 
 ### What's next:
