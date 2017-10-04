@@ -10,9 +10,10 @@ Prototype Link: https://xd.adobe.com/view/e699f7b7-7a29-40a6-b1e5-e881c11f6ed1/
 
 **Kaho Ha** - The latest upgrade of prototype before week 10 stand up is to meet previous participants' needs and want. Which upgraded digital prototype to be more functionality. After implemented prototype, I've done one user testing with participants which is my father (He is looking for start a new business.). Also, I did a quick interview about his opinion after using our website. *My task for next:*
 
-**Haoxiang Zheng** - 
+**Haoxiang Zheng** - In past a few weeks, I started to develop the basic web-base prototype. I have already built the static frontend web pages based on the digital prototype which done by Kaho. We have discussion of the layout of pages. Then some user test had been going through. In next stage, I am going to implement more functional web applications based on the new version of prototype.
 
-*My task for next:*
+This is the link of our web prototype:
+https://deco3500-2017.github.io/teamhighfive/
 
 **Yaxin Cui** - In week 10, my main duty is user testing and I have done some research. But we want to finish the survey first and then IU will fouce more on this. And I have aslo help for designed the [questionnaire](https://goo.gl/forms/VHBIwYqgkEk421xG3
 )
