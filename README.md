@@ -5,81 +5,75 @@
 ## Introduction:
 
 
-The project entails an online social platform that provides solution to new entrepreneurs and
-aspiring businessmen to reach like-minded people to team up, share funds and start a business.
-As part of the community dilemma, the social community makes it easy for anyone looking to
-start a business or learn more by communicating to other experienced business professionals.
-The social platform would also feature a mobile app that mimics all web features and more.
+The project entails an online social web platform that provides solution to new entrepreneurs and aspiring businessmen to reach like-minded people to team up and start a business. As part of the community dilemma, the social community makes it easy for anyone looking to start a business or learn more by communicating to other experienced business professionals. 
 
 
 ## Concept: 
 
+Many young entrepreneurs and students have brilliant business ideas that they wish to start. However, they lack the funds to start over or they are simply in need for a partnership with some other skill set. It has always been a challenge to find a platform dedicated to the needs of young entrepreneurs. Thus, this forms the rationale of the project; a dedicated business platform to allow people to form partnerships, discuss and form businesses.
 
-Many young entrepreneurs and students have brilliant business ideas that they wish to start.
-However, they lack the funds to start over or they are simply in need for a partnership with some
-other skill set. It has always been a challenge to find a platform dedicated to the needs of young
-entrepreneurs. Thus, this forms the rationale of the project; a dedicated business platform to allow
-people to form partnerships, discuss and form businesses.
+The project aims to fill in the gap between Indeed and BusinessPartners, that are primarily focused on employment and crowdfunding respectively. Thus, it is different from Indeed as it is not focused on employment but rather the initial startup phase of a business which includes forming partnerships, sharing and discussing confidential ideas under strict confidentiality.
 
-
-The project aims to fill in the gap between LinkedIn and Kickstarter, that are primarily focused on
-employment and crowdfunding respectively. Thus, it is different from LinkedIn as it is not focused
-on employment but rather the initial startup phase of a business which includes forming
-partnerships, sharing mutual funds and discussing confidential ideas under strict confidentiality.
-
-
-The project also differs from Kickstarter as the project does not rely on crowdfunding but rather
-sharing funds by mutual agreement between two or more parties.
-The project will harness the power of social and mobile computing to achieve its aims. An online
-website will be established that provides its users with a directory search of user profiles,
-discussion forums, private message (confidential), partnership formation and fund sharing
-agreements. A mobile app will mimic all the web features in addition to the convenience a mobile
-phone offers.
-
+Our project also differs from BusinessPartners as we do not rely on crowdfunding and employment but rather sharing idea by mutual agreement between two or more parties. The project will harness the power of social and mobile computing to achieve its aims. An online website will be established that provides its users with a directory search of user profiles, discussion forums, messenger, partnership formation. 
 
 The approach to the concept is as follows:
 
 
-### User Profiles
+### As a Business owner/ Startup Entrepreneur
 
-Users would be able to create accounts (profiles) for interaction. Account creation would only be
-possible with a valid ID card and bank account.
+**_Looking for Strategic Alliance_**
 
+User would able to search for some individuals by skills area. If they are interested with some people found in the results, they could send them a message or leave a comment under their post. 
 
-### Discussion forums
+**_Looking for Business Partner_**
 
-People would use the discussion forums to share their past experiences and learn from other
-business professionals publicly
+User would able to make a post about their business and then wait for someone who like to join them to respond their post. 
 
+**_Looking for Investor_**
 
-### Private messages (confidential)
+User would able to make a post about their business idea and then ask for investor to join them for further discussion by message. 
 
-Most business starters are hesitant to share their ideas publicly in fear of a cloned idea. However,
-they need to share their idea first in order to form potential partnerships. Thus, the user would be
-able to private message and engage with another party one-to-one with brief details. This
-conversation will be recorded for both parties and the original idea would be recorded beforehand
-which may be used in the court of law as evidence of the original idea, before the conversation
-began.
+Any discussion in messenger will be recorded under the Agreement of Privacy Policy and Terms & Conditions. 
 
 
-### Partnership & funds
+### As an Individual who seeking business/partnership opportunity
 
-Users may form a partnership after engaging in private messages and settling on an idea. By
-forming a team, they would be able to sign legal documents online to confirm their partnership
-(which will be stored on the servers as record for both parties). They will be able to declare their
-fund sharing plans and related financial decisions online (which will also be recorded and stored
-on server). Finally, the transactions will be possible on the platform and the bank details of users
-would already be in the database at the time of user registration.
+User would able to search for any business related to their skills area in this platform. If they are interested with the business, they could leave a comment or message the business owner to seek for partnership or work opportunity. Any discussion in messenger will be recorded under the Agreement of Privacy Policy and Terms & Conditions. 
+
+### As an Investor
+
+Investor would able to search for any business they interested by industry. If they are interested with the business idea, they could leave a comment or message the business owner/startup entrepreneur to seek for partnership. Any discussion in messenger will be recorded under the Agreement of Privacy Policy and Terms & Conditions. 
+
+### Account Profile
+
+-    User need to create a residential account with real identities first. And user can create a  business account with real certification which is linked to your personal account. Linking accounts allows our members to easily switch between their business and personal profiles.(Therefore, the user can access both accounts with one set of login details.)
+-    User’s personal and business accounts are treated completely separately and members will not see your personal details on your business page unless you choose to share this information.
+-    User can tag their profile in order to let other users to find by search function and the tag can be change many times by the owner. 
+-    User must agree to the Agreement of Privacy Policy and Terms & Conditions when signup a new account. 
+
+### Discussion Forum
+
+User could use the discussion forums to share their past experiences and learn from other business professionals publicly. 
+
+### Messenger
+
+- Secure live-messaging. Most business starters are hesitant to share their idea publicly in fear of a cloned idea or be stolen. However, they need to share their idea first in order to form potential partnerships. Thus, the user would be able to send private message and engage with another party one-to-one with brief details. 
+- Before the conversation began, the conversation will be recorded for both parties and the original idea would be recorded beforehand which may be used in the court of law as evidence of the original idea. Any discussion in messenger will be recorded under the Agreement of Privacy Policy and Terms & Conditions. 
+
+### Communication Protocols
+
+Each profile has a messaging, audio/video and grouping capabilities to form a conference for discussion.
 
 
-### Anti-fraud measures
+### Target Audience:
+Our target users are mainly focus on:
+- Startup Entrepreneur
+- Business Owner
+- Investor
+- Individual seeking for job or partnership
 
-Unfortunately, it is possible that people may attempt to fraud. However, the recording of
-conversations, a valid ID card, bank account, legal documents and other required information is
-stored at each step to minimise fraud activities. All information would be provided for legal
-defence.
-
-
+### Difference between competitors
+https://github.com/deco3500-2017/teamhighfive/blob/master/Week%2010%20stand%20up/research.md 
 
 
 
