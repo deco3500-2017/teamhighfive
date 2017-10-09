@@ -12,7 +12,7 @@ The project entails an online social web platform that provides solution to new 
 
 Many young entrepreneurs and students have brilliant business ideas that they wish to start. However, they lack the funds to start over or they are simply in need for a partnership with some other skill set. It has always been a challenge to find a platform dedicated to the needs of young entrepreneurs. Thus, this forms the rationale of the project; a dedicated business platform to allow people to form partnerships, discuss and form businesses.
 
-The project aims to fill in the gap between Indeed and BusinessPartners, that are primarily focused on employment and crowdfunding respectively. Thus, it is different from Indeed as it is not focused on employment but rather the initial startup phase of a business which includes forming partnerships, sharing and discussing confidential ideas under strict confidentiality.
+The project aims to fill in the gap between [Indeed](https://au.indeed.com/) and [BusinessPartners](https://www.businesspartners.com/), that are primarily focused on employment and crowdfunding respectively. Thus, it is different from Indeed as it is not focused on employment but rather the initial startup phase of a business which includes forming partnerships, sharing and discussing confidential ideas under strict confidentiality.
 
 Our project also differs from BusinessPartners as we do not rely on crowdfunding and employment but rather sharing idea by mutual agreement between two or more parties. The project will harness the power of social and mobile computing to achieve its aims. An online website will be established that provides its users with a directory search of user profiles, discussion forums, messenger, partnership formation. 
 
@@ -21,17 +21,11 @@ The approach to the concept is as follows:
 
 ### As a Business owner/ Startup Entrepreneur
 
-**_Looking for Strategic Alliance_**
+**_Looking for Strategic Alliance:_** User would able to search for some individuals by skills area. If they are interested with some people found in the results, they could send them a message or leave a comment under their post. 
 
-User would able to search for some individuals by skills area. If they are interested with some people found in the results, they could send them a message or leave a comment under their post. 
+**_Looking for Business Partner:_** User would able to make a post about their business and then wait for someone who like to join them to respond their post. 
 
-**_Looking for Business Partner_**
-
-User would able to make a post about their business and then wait for someone who like to join them to respond their post. 
-
-**_Looking for Investor_**
-
-User would able to make a post about their business idea and then ask for investor to join them for further discussion by message. 
+**_Looking for Investor:_** User would able to make a post about their business idea and then ask for investor to join them for further discussion by message. 
 
 Any discussion in messenger will be recorded under the Agreement of Privacy Policy and Terms & Conditions. 
 
