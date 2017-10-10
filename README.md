@@ -157,24 +157,35 @@ Our final interactive prototype website: https://deco3500-2017.github.io/teamhig
 
 ### Project milestones 
 
-#### Research
-- [ ] Idea confirmation
+#### Phase 1: Research
+- Idea confirmation
 
-#### Requirement
-- [ ] Requirement gathering
-- [ ] Product backlog
+#### Phase 2: Requirement
+- User requirement gathering
+- Product backlog
+- Research from internet
+- User survey and interview
 
-#### Design
-- [ ] Interface designing
-- [ ] Database designing
-- [ ] Paper prototype designing
-- [ ] User feedback (Critique)
+#### Phase 3: Design
+- Create mockups 
+- Low-fidelity prototype designing
+- Several times of user Testing
+- Improvement for prototype due to feedback
+- Plan for promotional materials
 
-#### Construction
-- [ ] Application development
-- [ ] Implement functionality
-- [ ] Final prototype
+#### Phase 4: Development
+- Website development
+- Final functional website
+- Promotional materials 
 
+Project Progress |	Due Date
+-- | --
+Project Plan (Oral pitch and project proposal)	| 1 September 2017
+Prototype 1 (Interaction Walk-Through)	| 12 September 2017
+Prototype 2 (User Testing Outcomes)	| 3 October 2017
+Prototype 3 (Final Iteration)	| 17 October 2017
+Final Prototype (Final Prototype Demonstration)	| 25 October 2017
+Project (Design Prototype Final Presentation & Submission)	| 27 October 2017
 
 
 ### Project Resources
