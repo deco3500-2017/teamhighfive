@@ -135,10 +135,9 @@ In this stage, we need to gather the requirement from our target audience. A cle
 We are able to search from Internet or other existing report to gather the existing user behavior study.
 
 #### - User survey & interview
-
 We will launch some quick surveys and interview questions. We can collect information directly from our target audience.
 
-#### - Design & Testing
+### Design & Testing
 After some research about our competitors and feedback from our target audience, we decided to design some prototype for user testing. Our prototype is made by Adobe Experience Design and provided user an opportunity to do testing through it instead of low-fidelity paper prototype. We do improve our user interface and all the functions based on the result of user testing. 
 Unfortunately we forgot to save the first prototype and its revolution progress because Adobe XD prototype link is the same one so it will overwrite the previous version.
 
@@ -151,9 +150,11 @@ Prototype | Date
 [Week 12 Stand Up](https://github.com/deco3500-2017/teamhighfive/tree/master/Week%2012%20stand%20up) | 17/10/2017
 Final Prototype | 25/10/2017
 
+### Development
 After several times of user testing, we will implement a functional website for final interactive prototype. 
 Coding will be used in this situation in order to produce more natural and working frontend interface.
 Our final interactive prototype website: https://deco3500-2017.github.io/teamhighfive/ 
+
 
 ### Project milestones 
 
