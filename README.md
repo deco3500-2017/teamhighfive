@@ -138,15 +138,23 @@ We are able to search from Internet or other existing report to gather the exist
 
 We will launch some quick surveys and interview questions. We can collect information directly from our target audience.
 
-#### User testing
-Provide user user opportunity to do testing through paper prototype. We are able to improve our user interface based on the result of test.
+#### Design & User testing
+After some research about our competitors and feedback from our target audience, we decided to design some prototype for user testing. Our prototype is made by Adobe Experience Design and provided user an opportunity to do testing through it instead of low-fidelity paper prototype. We do improve our user interface and all the functions based on the result of user testing. 
+Unfortunately we forgot to save the first prototype and its revolution progress because Adobe XD prototype link is the same one so it will overwrite the previous version.
 
+Prototype link: https://xd.adobe.com/view/e699f7b7-7a29-40a6-b1e5-e881c11f6ed1/ 
 
-### Design
-In this stage, we are likely to use paper prototype to design our interface and layout, which is friendly to modify and has lesser cost. 
+Prototype | Date 
+-- | --
+[Week 8 Stand Up](https://github.com/deco3500-2017/teamhighfive/tree/master/Week%208%20Stand%20Up) | 19/10/2017
+[Week 10 Stand Up](https://github.com/deco3500-2017/teamhighfive/tree/master/Week%2010%20stand%20up) | 03/10/2017
+[Week 12 Stand Up](https://github.com/deco3500-2017/teamhighfive/tree/master/Week%2012%20stand%20up) | 17/10/2017
+Final Prototype | 25/10/2017
+
 
 ### Construction
-Coding will be used in this situation in order to produce more natural and working frontend interface.
+After several times of user testing, we will implement a functional website for final interactive prototype. Coding will be used in this situation in order to produce more natural and working frontend interface.
+Our final interactive prototype website: https://deco3500-2017.github.io/teamhighfive/ 
 
 ### Project milestones 
 
