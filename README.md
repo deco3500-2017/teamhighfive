@@ -1,6 +1,24 @@
 # Team High Five
-## Project Title: 
-### eBusiness
+## Project Title: eBusiness
+
+- [Introduction](#introduction)
+- [Concept](#concept)
+  - [As a Business Owner/Startup Entrepreneur](#as-a-business-owner-startup-entrepreneur)
+  - [As a Contributor](#as-a-contributor)
+  - [As an Investor](#as-an-investor)
+  - [Functions](#account-profile)
+  - [Target Audience](#target-audience)
+  - [Differences between competitors](#difference-between-competitors)
+- [Team](#team-roles-and-resposibilities)
+  - [Logistics](#logistics)
+  - [Decision Making](#decision-making)
+  - [Conflict Resolution](#conflict-resolution)
+  - [Communication](#communications)
+- [Plan](#plan)
+  - [Project Phases](#project-phases)
+  - [Project Milestones](#project-milestones)
+  - [Project Resources](#project-resources)
+- [Tags](#tags)
 
 ## Introduction:
 
@@ -30,7 +48,7 @@ The approach to the concept is as follows:
 Any discussion in messenger will be recorded under the Agreement of Privacy Policy and Terms & Conditions. 
 
 
-### As an Individual who seeking business/partnership opportunity
+### As a Contributor
 
 User would able to search for any business related to their skills area in this platform. If they are interested with the business, they could leave a comment or message the business owner to seek for partnership or work opportunity. Any discussion in messenger will be recorded under the Agreement of Privacy Policy and Terms & Conditions. 
 
