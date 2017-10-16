@@ -14,7 +14,7 @@ Member  | Individual work done
 Mehroz Abbasi | 
 Hui Ee Chua | Before the week 12 stand up, I have done the user interview and user testing with our potential target audience. In my [user interview](https://github.com/deco3500-2017/teamhighfive/blob/master/Week%2012%20stand%20up/User_interview_%26_testing.md) document, it explains the user background, her process of starting up a new business, what are the challenges she faced from her business and what is her plan for solving these difficulties. 
 Kaho Ha | 
-Yaxin Cui | 
+Yaxin Cui | For week 12 Stand up, I have done  uer interview. I have found the user who really have done the startup before and have interested in this. All the interview and summary can be found in [there](https://github.com/deco3500-2017/teamhighfive/blob/master/Week%2012%20stand%20up/User_interview_%26_testing.md)
 Haoxiang Zheng |
 
 
