@@ -13,6 +13,7 @@
 #### Solution
 
 ### Diagram flow:
+![Design process diagram](https://github.com/deco3500-2017/teamhighfive/blob/master/designprocessdiagram.png)
 
 ## Prototype 
 
