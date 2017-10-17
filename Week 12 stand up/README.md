@@ -3,8 +3,8 @@
 
 - [x]  Final functional prototype, edit from feedback
 - [x]  User testing for final functional prototype 
-- [ ]  Necessary promotional materials (A1 poster, draft version)
-- [ ]  Optional promotional materials (brochure, draft version)
+- [x]  Necessary promotional materials (A1 poster, draft version)
+- [x]  Optional promotional materials (brochure, draft version)
 - [x]  User interviews about requirement 
 - [ ]  Website implementation
 
