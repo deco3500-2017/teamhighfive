@@ -59,3 +59,30 @@ Promotional Materials:
 
 
 ## Website implementation process:
+
+
+## Team Workload Distribution:
+
+Each member has been assigned for different tasks throughout the whole process of this project. A breakdown chart of the tasks that each member contributed time to each week can be found below:
+
+**Kaho Ha:** Interview/Prototype/Testing/Documentation
+
+**Haoxiang Zheng:** Website/Testing
+
+**Yaxin Cui:** Interview/Testing/Documentation
+
+**Hui Ee Chua:** Interview/Testing/Research/Documentation
+
+**Mehroz Abbasi:** Concept/Promotion/Documentation
+
+
+| Task | Week 7 | Week 8 | Week 9 | Week 10 | Week 11 | Week 12 |
+| ---  | ------ | ------ | ------ | ------- | ------- | ------- |
+| Concept & User Research | Mehroz, Hui Ee | | Hui Ee | | | |
+| Prototype | Kaho | Kaho | Kaho | Kaho | Kaho | |
+| Content creation | Kaho, Hui Ee | | Kaho, Hui Ee | Kaho, Hui Ee |  | Kaho, Hui Ee |
+| Documentation | Mehroz, Kaho, Hui Ee | | Kaho, Yaxin, Hui Ee | Kaho, Yaxin, Hui Ee |  | Kaho, Yaxin, Hui Ee |
+| User testing | Kaho, Yaxin, Hui Ee | | Kaho, Yaxin, Hui Ee | | Kaho, Yaxin, Hui Ee | |
+| User interview | Kaho, Yaxin, Hui Ee | | Yaxin, Hui Ee | | Yaxin, Hui Ee | |
+| Website implementation | | | Haoxiang | Haoxiang | Haoxiang | Haoxiang |
+| Promotional Materials | | | | Mehroz | Mehroz | Mehroz |
