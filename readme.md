@@ -21,12 +21,35 @@ Promotional Materials:
 [Brochure]()
 
 ## Introduction: 
+The project entails an online social web platform that provides solution to new entrepreneurs and aspiring businessmen to reach like-minded people to team up and start a business. As part of the community dilemma, the social community makes it easy for anyone looking to start a business or learn more by communicating to other experienced business professionals.Users are able to create searchable profiles, identify their interests using unique hashtags and search potential partners using the skill matchmaking.
 
 
 ## Diagram flow of process:
 ![Design process diagram](https://github.com/deco3500-2017/teamhighfive/blob/master/designprocessdiagram.png)
 
-## Research:
+## Research
+
+### Research about competitors:
+Differences between competitors with our concept: 
+
+[More details here](https://github.com/deco3500-2017/teamhighfive/blob/master/Week%2010%20stand%20up/research.md)
+
+## Target Audience
+
+### Startup Entrepreneur/Business Owner:
+
+**Looking for Strategic Alliance:** User would able to search for some individuals by skills area. If they are interested with some people found in the results, they could send them a message or leave a comment under their post.
+
+**Looking for Business Partner:** User would able to make a post about their business and then wait for someone who like to join them to respond their post.
+
+**Looking for Investor:** User would able to make a post about their business idea and then ask for investor to join them for further discussion by message.
+
+### Investor: 
+Investor would able to search for any business they interested by industry. If they are interested with the business idea, they could leave a comment or message the business owner/startup entrepreneur to seek for partnership. 
+
+### Contributor:
+Individual who seeking for job or partnership. User would able to search for any business related to their skills area in this platform. If they are interested with the business, they could leave a comment or message the business owner to seek for partnership or work opportunity. 
+
 
 ## User interview:
 
@@ -56,6 +79,9 @@ Promotional Materials:
 
 
 ### Prototype user testing:
+
+
+### Instruction to use:
 
 
 ## Website implementation process:
