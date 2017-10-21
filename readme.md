@@ -61,7 +61,13 @@ More analysis data details can be found here:
 
 ### Problem:
 
+Many young entrepreneurs and students have brilliant business ideas that they wish to start. However, they lack the funds to start over or they are simply in need for a partnership with some other skill set. It has always been a challenge to find a platform dedicated to the needs of young entrepreneurs. Thus, this forms the rationale of the project; a dedicated business platform to allow people to form partnerships, discuss and form businesses.
+
 ### Solution:
+
+The project aims to fill in the gap between Indeed and BusinessPartners, that are primarily focused on employment and crowdfunding respectively. Thus, it is different from Indeed as it is not focused on employment but rather the initial startup phase of a business which includes forming partnerships, sharing and discussing confidential ideas under strict confidentiality.
+
+Our project also differs from BusinessPartners as we do not rely on crowdfunding and employment but rather sharing idea by mutual agreement between two or more parties. The project will harness the power of social and mobile computing to achieve its aims. An online website will be established that provides its users with a directory search of user profiles, discussion forums, messenger, partnership formation.
 
 
 
