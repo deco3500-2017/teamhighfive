@@ -1,3 +1,18 @@
+![eBusiness Logo](https://github.com/deco3500-2017/teamhighfive/blob/master/eB%20logo.png)
+
+# Team High Five - eBusiness
+
+Hui Ee Chua - 43863480
+
+Kaho Ha - 43995783
+
+Yaxin Cui - 44450672
+
+Haoxiang Zheng - 44256810
+
+Mehroz Abbasi - 43515181
+
+
 # Design Process Report
 
 Week 8 Stand Up: 
@@ -31,8 +46,10 @@ The project entails an online social web platform that provides solution to new 
 
 ### Research about competitors:
 Differences between competitors with our concept: 
+In the progress of developing our concept, we have done some research about competitors and existing solution. Our researcher have analysed the function of website from three competitors (indeed.com, jobsearch.gov.au, businesspartners.com) compared to our concept. The aim of this research is to find out what are the exisiting solution from these websites provided for our target audience: business owner, start-up entrepreneur, investor and individual who seeking for partnership or job. It also explained the function of each website compared to the function which we will provided for our target audience. This research have given us more idea for improvement of our concept.
 
-[More details here](https://github.com/deco3500-2017/teamhighfive/blob/master/Week%2010%20stand%20up/research.md)
+More analysis data details can be found here:
+[More details click here](https://github.com/deco3500-2017/teamhighfive/blob/master/Week%2010%20stand%20up/research.md)
 
 
 ## User interview:
