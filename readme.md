@@ -129,6 +129,7 @@ Goals and Ambitions:
 
 eBusiness consists functionality which allow users to share their ideas, look for partners, and form partnerships with other users to start business.
 Each user need to select which kind of users they will be (Business owner, investor, contributor etc.) and also need to select their concern occupations. These informatino will become users' tag that will let other users easily figure out needs and wants. Moreover, every user have to upload copy of their identification to make other users feel relieved when communicating with each other. Business owners can public their business idea in discussion forum section, and other users can view their idea to decide join in or not base on their interests and business return. On the other side, users can search for the partners base on their requirement in 'Partner search' section. If they want to know more about each others, they can view user's basic introduction and direct message to users easily.
+In discussion forum, users can share their experience with others, or users can look for help in forum section. Each user can leave their comment under every post to give advice or discuss with bloggers. Moreover, users can click 'like' buttom if they think that post is helpful and attractive.
 
 ### Prototype user testing:
 
