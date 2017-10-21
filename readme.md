@@ -85,14 +85,35 @@ Individual who seeking for job or partnership. User would able to search for any
 
 ## Persona & Storyboard:
 
-### User Story 1: [Persona 1](https://github.com/deco3500-2017/teamhighfive/blob/master/personas/Persona.pdf)
+### [Persona 1](https://github.com/deco3500-2017/teamhighfive/blob/master/personas/Persona.pdf) - Contributor
+
+Background: Timothy is a 23-years-old young man from Brisbane. He is a third year university student, studying Bachelor of Information Technology at University of Queensland. Timothy enjoys a busy life for taking part in programming and game developing. He has a very busy schedule with university and also working on the weekends by tutoring. He wants his programming skills to be used for his future job.
+
+Goals and Ambitions: 
+-	Graduate from University
+-	Find a full time job after graduated
+-	Have his own team for game development
 
 
-### User Story 2: [Persona 2](https://github.com/deco3500-2017/teamhighfive/blob/master/personas/persona.jpg)
+### [Persona 2](https://github.com/deco3500-2017/teamhighfive/blob/master/personas/persona.jpg) - Start-up Entrepreneur
+
+Background: Adam is an engineer that just found a new job in Los Angel. He has 8 years working experience and moves to Los Angel in order to explore the better working space. Adam likes reading books in quiet space and do not enjoy diong outside sports, for exmple, climbing. He used to live in Scarborough, Northern England which is is a beautiful city. But he wants a Swift progress in his career. Adam loves to study more skills. Therefore he is working hard and sometimes starts up some new business.
+
+Goals and Ambitions: 
+- Startup a new business in LA and found trustful partner
+- Get a part time or full time job in new living place
 
 
 ### Story board example 1:
 ![Story board example 1:](https://github.com/deco3500-2017/teamhighfive/blob/master/storyboard1.png)
+
+1. Adam is looking for contributor or partner to join his business. He posted his new start up business on eBusiness website. Some contributors contacted him by leaving comment and inbox message.
+
+2. Timothy is looking for job which related to his major skill. He search some business by his skill area on eBusiness website. He found Adam's business and willing to join his team.
+
+3. Person B is looking for join a new start up business as busines partner. He found Adam's business idea on eBusiness website and very interested in. He contacted Adam by inbox message.
+
+4. After further discussion, Adam, Timothy and Person B have formed a team for the business.
 
 
 
