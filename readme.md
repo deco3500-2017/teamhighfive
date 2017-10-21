@@ -34,6 +34,19 @@ Differences between competitors with our concept:
 
 [More details here](https://github.com/deco3500-2017/teamhighfive/blob/master/Week%2010%20stand%20up/research.md)
 
+
+## User interview:
+
+
+
+## Requirements:
+
+### Problem:
+
+### Solution:
+
+
+
 ## Target Audience
 
 ### Startup Entrepreneur/Business Owner:
@@ -51,8 +64,6 @@ Investor would able to search for any business they interested by industry. If t
 Individual who seeking for job or partnership. User would able to search for any business related to their skills area in this platform. If they are interested with the business, they could leave a comment or message the business owner to seek for partnership or work opportunity. 
 
 
-## User interview:
-
 ## Persona & Storyboard:
 
 ### User Story 1: [Persona 1](https://github.com/deco3500-2017/teamhighfive/blob/master/personas/Persona.pdf)
@@ -63,13 +74,6 @@ Individual who seeking for job or partnership. User would able to search for any
 
 ### Story board example 1:
 ![Story board example 1:](https://github.com/deco3500-2017/teamhighfive/blob/master/storyboard1.png)
-
-
-## Requirements:
-
-### Problem:
-
-### Solution:
 
 
 
