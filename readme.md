@@ -148,7 +148,7 @@ Each member has been assigned for different tasks throughout the whole process o
 
 **Haoxiang Zheng:** Website/Testing
 
-**Yaxin Cui:** Interview/Testing/Documentation
+**Yaxin Cui:** Interview/ Usability Testing/Documentation
 
 **Hui Ee Chua:** Interview/Testing/Research/Documentation
 
