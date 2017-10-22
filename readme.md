@@ -162,6 +162,6 @@ Each member has been assigned for different tasks throughout the whole process o
 | Content creation | Kaho, Hui Ee | | Kaho, Hui Ee | Kaho, Hui Ee |  | Kaho, Hui Ee |
 | Documentation | Mehroz, Kaho, Hui Ee | | Kaho, Yaxin, Hui Ee | Kaho, Yaxin, Hui Ee |  | Kaho, Yaxin, Hui Ee |
 | User testing | Kaho, Yaxin, Hui Ee | | Kaho, Yaxin, Hui Ee | | Kaho, Yaxin, Hui Ee | |
-| User interview | Kaho, Yaxin, Hui Ee | | Yaxin, Hui Ee | | Yaxin, Hui Ee | |
+| User interview | Kaho, Yaxin, Hui Ee | | Yaxin, Hui Ee | | Yaxin, Hui Ee | |Yaxin  | | Yaxin
 | Website implementation | | | Haoxiang | Haoxiang | Haoxiang | Haoxiang |
 | Promotional Materials | | | | Mehroz | Mehroz | Mehroz |
