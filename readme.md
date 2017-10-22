@@ -55,14 +55,23 @@ More analysis data details can be found here:
 ## User interview:
 ### Interviewee
 Due to our target user is both the people have interested to form their own business start-up and investor who want to make investment and get the return. All the interviewees are satisfied our target user requirement or they are fully experienced in this area n order to get useful feedback.
-#### First round 
+### First round 
 At the beginning, the main problem we face is copyright issue which is throughout the whole process. The final outcome will in the conclusion section. In this round, the first interviewee is an engineering student which have interested in touch the startup but may lack experience in this area. The second interviewee is an experienced co-founder which has varsity experience in the startup. 
 
-Details can be found in the interview doucment in week8
+Details can be found in the interview doucment in week8: 
 https://github.com/deco3500-2017/teamhighfive/blob/master/Week%208%20Stand%20Up/User%20interview_Week%208.pdf
 
-#### Second Round
+#### result
 
+### Second Round
+After the first interview, we have useful information. And enhance the prototype, redo the user research with the survey.  The second round we interviewee more target user.  It causes lots of times and finally, a startup company' marketing specialist agree to do the interview.  The whole process is followed the last one, face to face and talk about our topic.  In this time we reduce the yes or no question, let interviewee have more flexible answer.
+
+Details can be found in the interview doucment in week12:
+https://github.com/deco3500-2017/teamhighfive/blob/master/Week%2012%20stand%20up/User%20interview%20document_week12.pdf
+
+#### result
+
+### Final Conclusion
 ## Requirements:
 
 ### Problem:
