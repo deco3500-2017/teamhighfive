@@ -89,8 +89,8 @@ a:after {
 }
 
 .navbar-inverse {
-	padding-bottom: 70px;
-	padding-top: 70px;
+	padding-bottom: 10px;
+	padding-top: 20px;
 }
 
 .navbar-inverse {
@@ -269,6 +269,6 @@ bt {
 /* glyphicon Configuration */
 
 .glyphicon {
-	font-size: 40px;
-	color: #1abc9c;
+	/*font-size: 40px; */
+	/*color: #1abc9c; */
 }
