@@ -165,7 +165,7 @@ In 'discussion forum' section, users can post out any topic of blogs, it can be 
 When the paper prototype testing, this time the main function
 The details can be found in: https://github.com/deco3500-2017/teamhighfive/blob/master/Paper%20Prototype_User%20Testing.pdf
 ### Instruction to use:
-(https://github.com/deco3500-2017/teamhighfive/blob/master/Prototype_FlowDiagram.png)
+![Prototype process diagram](https://github.com/deco3500-2017/teamhighfive/blob/master/Prototype_FlowDiagram.png)
 
 
 ## Website implementation process:
