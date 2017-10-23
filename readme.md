@@ -141,7 +141,8 @@ Goals and Ambitions:
 ## Prototype and user testing
 ### paper prototype
 After User search and interview we have collected lots of useful information to build our website. 
-Paper prototyping is used low-fidelity prototyping method for designing and testing user interfaces as first which in future helps developers to create the website to meet the user goals, understand the user's expectation and what they want for our project. 
+Paper prototyping is used low-fidelity prototyping method for designing and testing user interfaces as first which in future helps developers to create the website to meet the user goals, understand the user's expectation and what they want for our project.
+https://github.com/deco3500-2017/teamhighfive/blob/master/Week%208%20Stand%20Up/Paper_prototype.JPG
 At this time, our primary function for the user is login/register, search people with skills/ start-up business, introduction for the website, User 's own profile and communication function. 
 There will be a homepage with the beginning tutorial, teaching the user how to use this website and It's what users will see in the first time when they enter the website. The user can find the signup/register page in the navigation.  And user needs to complete some verification in order to register successfully. The choice here is using the traditional navigation style. All the pages will have only one navigation. After user login in, they can use more service on this website, for example chatting function. Sign in page and login in the page all use common design. Therefore, the user will log in and register without any trouble.
 (Up comming...)
