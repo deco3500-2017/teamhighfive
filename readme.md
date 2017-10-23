@@ -167,6 +167,18 @@ The details can be found in: https://github.com/deco3500-2017/teamhighfive/blob/
 ### Instruction to use:
 ![Prototype process diagram](https://github.com/deco3500-2017/teamhighfive/blob/master/Prototype_FlowDiagram.png)
 
+1. Users first need to create an account by filling in their personal information (some of information won't show to other users), also  users need to identify themselves into several categories (Business owner, Contributor, Investor etc.) and select industries they interested. In final step users have to upload copy of their identification to be verified.
+
+2. Click 'About page' will let users know what does our website's do.
+
+3. In 'Partner Search' section, users can search their ideal partners by selecting key words. For example, IT Business owners will select 'IT', 'Contributor' or 'Investor' to find some employees with skills or receive his start-up capital from investor.
+
+4. If they want to know more about such user, they can click 'More information' to view user profile or 'Chat' to have a directly message with each other.
+
+5. In 'Discussion forum' section, users can click any topic they feel interested, and leave their comments or click the 'like' button if they love that blog. Also. every user is allowed to post out their content to share their knowledge and experience.
+
+6. Last but not the least, user can modify their user profile at any time they want.
+
 
 ## Website implementation process:
 
