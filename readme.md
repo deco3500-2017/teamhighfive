@@ -138,7 +138,17 @@ Goals and Ambitions:
 
 
 
-## Prototype 
+## Prototype and user testing
+### paper prototype
+
+### User testing for paper protoype
+
+### problem found and resloved
+
+### digital prototype testing
+After this iteration, there is final usability testing. The main method is observation,  The details can be found in week12 stands up: https://github.com/deco3500-2017/teamhighfive/blob/master/Week%2012%20stand%20up/Observation_Prototype_User%20Testing.pdf
+The outcome for this version is great. All the user reach the observation task goal.
+
 
 ### Prototype designing:
 
