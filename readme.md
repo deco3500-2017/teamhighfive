@@ -68,9 +68,8 @@ https://github.com/deco3500-2017/teamhighfive/blob/master/Week%2012%20stand%20up
 
 https://github.com/deco3500-2017/teamhighfive/blob/master/Week%2012%20stand%20up/User_interview_%26_testing.md
 
-#### Result
 
-### Final Conclusion
+### Conclusion
 Most of the interviewee think this idea is great and they would try our product. The way to solved copyright issue is on both side, for the website builder and the idea owner. 
 
 The first side, Website need to have protected method. Verification is a good way to achieve. One of the interviews have mentioned that if anything happened, they can find the people who should be responsible for this problem, all the user need to register using their real IC. Cause it’s involved real business so it should be agreed for most people to achieve the real IC register. However, the user can choose to show their information or not. It’s protection for both Contributor and Investor. And user also can have more service if they willing to complete more personal information, it’s a way to encourage people to use real information. However, website admin should keep security and privacy for all the user. With those verification function, It will increase the feeling of security and user would use our product without worried anything.
