@@ -54,24 +54,31 @@ More analysis data details can be found here:
 
 ## User interview:
 ### Interviewee
-Due to our target user is both the people have interested to form their own business start-up and investor who want to make investment and get the return. All the interviewees are satisfied our target user requirement or they are fully experienced in this area n order to get useful feedback.
-### First round 
+Due to our target user is both the people have interested to form their own business start-up and investor who want to make investment and get the return. All the interviewees are satisfied our target user requirement or they are fully experienced in this area in order to get useful feedback. We have interview some people with experienced in startup and also for the people who have dream to begin their own startup. 
+### Interview process
 At the beginning, the main problem we face is copyright issue which is throughout the whole process. The final outcome will in the conclusion section. In this round, the first interviewee is an engineering student which have interested in touch the startup but may lack experience in this area. The second interviewee is an experienced co-founder which has varsity experience in the startup. 
 
 Details can be found in the interview doucment in week8: 
 https://github.com/deco3500-2017/teamhighfive/blob/master/Week%208%20Stand%20Up/User%20interview_Week%208.pdf
 
-#### result
-
-### Second Round
-After the first interview, we have useful information. And enhance the prototype, redo the user research with the survey.  The second round we interviewee more target user.  It causes lots of times and finally, a startup company' marketing specialist agree to do the interview.  The whole process is followed the last one, face to face and talk about our topic.  In this time we reduce the yes or no question, let interviewee have more flexible answer.
+After the first interview, we have useful information. And enhance the prototype, redo the user research with the survey.  The second round we interviewee more target user.  It causes lots of times and finally, a startup company' marketing specialist agree to do the interview.  The whole process is followed the last one, face to face and talk about our topic. In this time we reduce the yes or no question, let interviewee have more flexible answer.
 
 Details can be found in the interview doucment in week12:
 https://github.com/deco3500-2017/teamhighfive/blob/master/Week%2012%20stand%20up/User%20interview%20document_week12.pdf
 
+https://github.com/deco3500-2017/teamhighfive/blob/master/Week%2012%20stand%20up/User_interview_%26_testing.md
+
 #### Result
 
 ### Final Conclusion
+Most of the interviewee think this idea is great and they would try our product. The way to solved copyright issue is on both side, for the website builder and the idea owner. 
+
+The first side, Website need to have protected method. Verification is a good way to achieve. One of the interviews have mentioned that if anything happened, they can find the people who should be responsible for this problem, all the user need to register using their real IC. Cause it’s involved real business so it should be agreed for most people to achieve the real IC register. However, the user can choose to show their information or not. It’s protection for both Contributor and Investor. And user also can have more service if they willing to complete more personal information, it’s a way to encourage people to use real information. However, website admin should keep security and privacy for all the user. With those verification function, It will increase the feeling of security and user would use our product without worried anything.
+
+Another side, user, ideas owner, should also take care for their own ideas. They should have their own way to protect the core ideas for their startup, especially for a professional start-up. It is also the reason that most of the interviewee don’t mind to post their ideas online. The marketing specialist, for a start-up company, has mentioned that many companies may have similar ideas but the important thing is to keep the core function security.  
+
+Next, there are lots of useful feedback. The first one is by IconX marketing specialist. Useful advice is added a like button to show how many people like this startup idea. As a viewer, they will search for the interested are and also will pay attention to the hot ideas.  It like a post, if more people like, more people will take a look. As the idea's owner， he ideas will have more opportunity to achieve. 
+
 ## Requirements:
 
 ### Problem:
@@ -158,7 +165,7 @@ The plan is we will name the page(startup idea search page) as Discussion forums
 However, we will continue building the digital prototype basic on this and testing in the future. 
 
 
-### Prototype designing:
+### Digital Prototype designing:
 
 eBusiness consists functionality which allow users to share their ideas, look for partners, and form partnerships with other users to start business.
 Each user need to select their user category (Business owner, investor, contributor etc.) and also need to select occupations they want to participate in. These information will become users' tag and show in their user profile that will make other users search them easily. Moreover, every user has to upload their copy of identification to avoid fake or AI accounts exist. Business owners can publish their business idea in our website, and others can view business idea to decide join in or not base on their interests and business return. On the other side, users can search for the partners base on their requirement in 'Partner search' section. For example, Business owners can search contributors with certain occupation category to find suitable people and view their user profiles. And investor can search for their most interested business idea in this section to decide the most profitable project to invest. For further contact and communicate, they can direct message to the users by 'Inbox' function.
