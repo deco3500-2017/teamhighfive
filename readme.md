@@ -69,7 +69,7 @@ After the first interview, we have useful information. And enhance the prototype
 Details can be found in the interview doucment in week12:
 https://github.com/deco3500-2017/teamhighfive/blob/master/Week%2012%20stand%20up/User%20interview%20document_week12.pdf
 
-#### result
+#### Result
 
 ### Final Conclusion
 ## Requirements:
@@ -151,16 +151,14 @@ In the chat page, it's like the message, simply display you're recently chatting
 ### User testing for paper protoype
 The details can be found in: https://github.com/deco3500-2017/teamhighfive/blob/master/Paper%20Prototype_User%20Testing.pdf
 
-### problem found, resolved, conclusion 
+### Problem found, Resolved, Conclusion 
 In response to user feedback, all the user is no problem for:  our login/ sign up function, communication function. And most of the tester can use the search method quickly. The main problem is we need to improve the language for the navigation. Make it understandable. Then some tester has mentioned that if we can have the different section in the profile page will be better. Now lots of information on one page is may confuse the user. 
 The plan is we will name the page(startup idea search page) as Discussion forums. Because this page is not just posting, everyone can leave their comments, like forums. Then we plan to add basic information section, the introduction section, friend list, and certification section. Separated the information by different users. 
 
 However, we will continue building the digital prototype basic on this and testing in the future. 
 
-### digital prototype testing
-After this iteration, there is final usability testing. The main method is observation,  The details can be found in week12 stands up: https://github.com/deco3500-2017/teamhighfive/blob/master/Week%2012%20stand%20up/Observation_Prototype_User%20Testing.pdf
-The outcome for this version is great. All the user reach the observation task goal.
-
+### Digital Prototype Testing
+After this iteration, there is final usability testing. The main method is observation,  The details can be found in week12 stands up: https://github.com/deco3500-2017/teamhighfive/blob/master/Week%2012%20stand%20up/Observation_Digital_Prototype_User%20Testing.pdf The outcome for this version is great. All the user reach the observation task goal.
 
 ### Prototype designing:
 
