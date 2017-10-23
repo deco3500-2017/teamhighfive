@@ -145,7 +145,9 @@ Paper prototyping is used low-fidelity prototyping method for designing and test
 ![Paper Prototype](https://github.com/deco3500-2017/teamhighfive/blob/master/Week%208%20Stand%20Up/Paper_prototype.JPG)
 At this time, our primary function for the user is login/register, search people with skills/ start-up business, introduction for the website, User 's own profile and communication function. 
 There will be a homepage with the beginning tutorial, teaching the user how to use this website and It's what users will see in the first time when they enter the website. The user can find the signup/register page in the navigation.  And user needs to complete some verification in order to register successfully. The choice here is using the traditional navigation style. All the pages will have only one navigation. After user login in, they can use more service on this website, for example chatting function. Sign in page and login in the page all use common design. Therefore, the user will log in and register without any trouble.
-(Up comming...)
+
+In the chat page, it's like the message, simply display you're recently chatting and it will show that if the people are online or not. The skill search page and startup ideas search page have the similar layout display. It has the filter at first, then will show the list in order. And on the profile page, User can change their information, upload their IC photo, certification and select their skill tag. However, the user can only use those functions when their login successfully. Once they have the login, the login/register section will become profile section. 
+
 ### User testing for paper protoype
 The details can be found in: https://github.com/deco3500-2017/teamhighfive/blob/master/Paper%20Prototype_User%20Testing.pdf
 
