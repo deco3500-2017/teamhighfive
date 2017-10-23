@@ -78,8 +78,6 @@ Another side, user, ideas owner, should also take care for their own ideas. They
 
 Next, there are lots of useful feedback. The first one is by IconX marketing specialist. Useful advice is added a like button to show how many people like this startup idea. As a viewer, they will search for the interested are and also will pay attention to the hot ideas.  It like a post, if more people like, more people will take a look. As the idea's owner， he ideas will have more opportunity to achieve. 
 
-Next, there are lots of useful feedback. The first one is by IconX marketing specialist. Useful advice is added a like button to show how many people like this startup idea. As a viewer, they will search for the interested are and also will pay attention to the hot ideas.  It like a post, if more people like, more people will take a look. As the idea's owner, he ideas will have more opportunity to achieve. The same goal can also be achieved by add comment function.
-
 The feedback function and add trustworthiness credit function for the user is also useful.  For example,  the user can get credit by complete more information by verification. And the user with high credit will have more service on the website.  It's another way to encourage people to complete the basic information and keep a safe platform for startup.
 
 However, we will consider if the advice can really work or necessary in the product and the testing on the prototype.
