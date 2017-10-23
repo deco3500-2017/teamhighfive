@@ -157,8 +157,6 @@ The plan is we will name the page(startup idea search page) as Discussion forums
 
 However, we will continue building the digital prototype basic on this and testing in the future. 
 
-### Digital Prototype Testing
-After this iteration, there is final usability testing. The main method is observation,  The details can be found in week12 stands up: https://github.com/deco3500-2017/teamhighfive/blob/master/Week%2012%20stand%20up/Observation_Digital_Prototype_User%20Testing.pdf The outcome for this version is great. All the user reach the observation task goal.
 
 ### Prototype designing:
 
@@ -166,9 +164,11 @@ eBusiness consists functionality which allow users to share their ideas, look fo
 Each user need to select their user category (Business owner, investor, contributor etc.) and also need to select occupations they want to participate in. These information will become users' tag and show in their user profile that will make other users search them easily. Moreover, every user has to upload their copy of identification to avoid fake or AI accounts exist. Business owners can publish their business idea in our website, and others can view business idea to decide join in or not base on their interests and business return. On the other side, users can search for the partners base on their requirement in 'Partner search' section. For example, Business owners can search contributors with certain occupation category to find suitable people and view their user profiles. And investor can search for their most interested business idea in this section to decide the most profitable project to invest. For further contact and communicate, they can direct message to the users by 'Inbox' function.
 In 'discussion forum' section, users can post out any topic of blogs, it can be look for recommendations to improve their idea or business, can be share their experience, also can be seek solution for problem they have met etc. Users can leave comments in each blog to present their understanding, thinking and recommendation which allow all users feel free to discuss. And users can click 'like' button if they are keen on blog's topic, the more times 'like' will attract more users to participate in and will lead to a much more positive results or experience for every users.
 
-### Prototype user testing:
-When the paper prototype testing, this time the main function
-The details can be found in: https://github.com/deco3500-2017/teamhighfive/blob/master/Paper%20Prototype_User%20Testing.pdf
+### User testing for digital protoype
+After this iteration, there is final usability testing. The main method is observation. The details can be found in week12 stands up: 
+https://github.com/deco35002017/teamhighfive/blob/master/Week%2012%20stand%20up/Observation_Digital_Prototype_User%20Testing.pdf 
+The outcome for this version is great. All the user reach the observation task goal.
+
 ### Instruction to use:
 ![Prototype process diagram](https://github.com/deco3500-2017/teamhighfive/blob/master/Prototype_FlowDiagram.png)
 
