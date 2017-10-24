@@ -88,10 +88,9 @@ a:after {
 	margin-bottom: 0px;
 }
 
-
 .navbar-inverse {
 	padding-bottom: 10px;
-	padding-top: 10px;
+	padding-top: 20px;
 }
 
 .navbar-inverse {
@@ -100,9 +99,8 @@ a:after {
 }
 
 .navbar-inverse .navbar-nav {
-	padding-top: 25px;
+	padding-top: 15px;
 }
-
 .navbar-inverse .navbar-nav > li > a {
 	color: white;
 }
@@ -274,13 +272,6 @@ bt {
 /* glyphicon Configuration */
 
 .glyphicon {
-	font-size: 40px;
-	color: #1abc9c;
-}
-
-.logo img{
-    float:left;
-    height:100px;
-    padding:-100px;
-    width:auto;
+	/*font-size: 40px; */
+	/*color: #1abc9c; */
 }
