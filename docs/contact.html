@@ -54,10 +54,18 @@
             <li><a href="inbox.html">Inbox</a></li>
             <li><a href="contact.html">Contact</a></li>
             <li><div class="set_4_button2 raised hoverable">
-		  <div class="anim"></div>
-		  <span><a href="login.html">Login</a>
-		  </span> </div>
-		</li>
+		  <script type="text/javascript">
+
+var customerId=sessionStorage.customerId; 
+if (customerId == undefined) {
+document.write('<li><div class="set_4_button2 raised hoverable"><div class="anim"></div><span><a href="login.html">Login</a></span> </div></li>');
+}
+else{
+document.write('<li><div class="set_4_button2 raised hoverable"><li><a href="myProfile.html">My Porfile</a></li></div></li>');
+}
+/*用window.onload调用myfun()*/
+window.onload=myfun;//不要括号
+</script>
           </ul>
         </div><!--/.nav-collapse -->
 

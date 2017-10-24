@@ -41,6 +41,8 @@
 
 	</head>
 
+
+
 	<body class="style-3">
 
 		<div class="container">
@@ -77,12 +79,21 @@
 							<p>Not registered? <a href="signUp.html">Sign Up</a> | <a href="forgot.html">Forgot Password?</a></p>
 						</div>
 						<div class="form-group">
-							<input type="submit" value="Sign In" class="btn btn-primary">
+							
+							<input type="button" name="button" id="button" class="btn btn-primary" value="Sign In" onclick="a()"/>
 						</div>
 					</form>
 					<!-- END Sign In Form -->
 
-
+	<script type="text/javascript">
+	function a()
+	{
+		sessionStorage.customerId = "666";
+	alert("Successfully Login!!! Redirecting to index Page!");
+	window.location.href='index.html';
+	}
+	</script>
+	
 				</div>
 			</div>
 			<div class="row" style="padding-top: 60px; clear: both;">
