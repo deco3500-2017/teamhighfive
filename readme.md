@@ -182,6 +182,8 @@ The outcome for this version is great. All the user reach the observation task g
 ### Instruction to use:
 ![Prototype process diagram](https://github.com/deco3500-2017/teamhighfive/blob/master/Prototype_FlowDiagram.png)
 
+Once again, here is the [prototype's link](https://xd.adobe.com/view/e699f7b7-7a29-40a6-b1e5-e881c11f6ed1/)
+
 1. Users first need to create an account by filling in their personal information (some of information won't show to other users), also  users need to identify themselves into several categories (Business owner, Contributor, Investor etc.) and select industries they interested. In final step users have to upload copy of their identification to be verified.
 
 2. Click 'About page' will let users know what does our website's do.
