@@ -2,6 +2,10 @@
 
 # Team High Five - eBusiness
 
+Team High Five is our team name and not only because of our team of five, but also high five represents greeting, celebration, congrationlation, coorperation and successful, and this well interprate our team spirit and our project spirit.
+
+Here are our team members:
+
 Hui Ee Chua - 43863480
 
 Kaho Ha - 43995783
@@ -12,7 +16,7 @@ Haoxiang Zheng - 44256810
 
 Mehroz Abbasi - 43515181
 
-
+All of members will contribute to project and try to present our project in the best condition with technical and user experience perspectives.
 # Design Process Report
 
 Week 8 Stand Up: 
