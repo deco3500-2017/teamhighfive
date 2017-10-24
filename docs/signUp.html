@@ -40,6 +40,14 @@
 	<![endif]-->
 
 	</head>
+
+	<script type="text/javascript">
+
+function showhidediv(){
+document.getElementById("msggg").style.display = "block";
+alert("Your info has been saved.");
+}
+</script>
 	<body class="style-3">
 
 		<div class="container">
@@ -59,18 +67,18 @@
 					
 
 					<!-- Start Sign In Form -->
-					<form action="#" class="fh5co-form animate-box" data-animate-effect="fadeInRight">
+					<form class="fh5co-form animate-box" data-animate-effect="fadeInRight">
 						<h2>Sign Up</h2>
 						<div class="form-group">
-							<div class="alert alert-success" role="alert">Your info has been saved.</div>
+							<div id="msggg" class="alert alert-success" role="alert" style="display: none;">Your info has been saved.</div>
 						</div>
 						<div class="form-group">
 							<label for="name" class="sr-only">Name</label>
-							<input type="text" class="form-control" id="name" placeholder="Name" autocomplete="off">
+							<input type="text" class="form-control" id="name" placeholder="Name" autocomplete="off" >
 						</div>
 						<div class="form-group">
 							<label for="email" class="sr-only">Email</label>
-							<input type="email" class="form-control" id="email" placeholder="Email" autocomplete="off">
+							<input  class="form-control" id="email" placeholder="Email" autocomplete="off">
 						</div>
 						<div class="form-group">
 							<label for="password" class="sr-only">Password</label>
@@ -87,7 +95,7 @@
 							<p>Already registered? <a href="login.html">Sign In</a></p>
 						</div>
 						<div class="form-group">
-							<input type="submit" value="Sign Up" class="btn btn-primary">
+							<input type="submit" value="Sign Up" class="btn btn-primary" onclick="return showhidediv();">
 						</div>
 					</form>
 					<!-- END Sign In Form -->
