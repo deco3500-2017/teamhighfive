@@ -214,20 +214,20 @@ Each member has been assigned for different tasks throughout the whole process o
 
 **Haoxiang Zheng:** Website/Testing
 
-**Yaxin Cui:** Interview/ Usability Testing/Documentation
+**Yaxin Cui:** Interview/ Usability Testing/Documentation/Promotional Materials
 
-**Hui Ee Chua:** Interview/Testing/Research/Documentation
+**Hui Ee Chua:** Interview/Testing/Research/Documentation/Promotional Materials
 
-**Mehroz Abbasi:** Concept/Promotion/Documentation
+**Mehroz Abbasi:** Concept/Promotional Materials/Documentation
 
 
-| Task | Week 7 | Week 8 | Week 9 | Week 10 | Week 11 | Week 12 |
-| ---  | ------ | ------ | ------ | ------- | ------- | ------- |
-| Concept & User Research | Mehroz, Hui Ee | | Hui Ee | | | |
-| Prototype | Kaho | Kaho | Kaho | Kaho | Kaho | |
-| Content creation | Kaho, Hui Ee | | Kaho, Hui Ee | Kaho, Hui Ee |  | Kaho, Hui Ee |
-| Documentation | Mehroz, Kaho, Hui Ee | | Kaho, Yaxin, Hui Ee | Kaho, Yaxin, Hui Ee |  | Kaho, Yaxin, Hui Ee |
-| User testing | Kaho, Yaxin, Hui Ee | | Kaho, Yaxin, Hui Ee | | Kaho, Yaxin, Hui Ee | |
-| User interview | Kaho, Yaxin, Hui Ee | | Yaxin, Hui Ee |Yaxin | Yaxin, Hui Ee |Yaxin |  |
-| Website implementation | | | Haoxiang | Haoxiang | Haoxiang | Haoxiang |
-| Promotional Materials | | | | Mehroz | Mehroz | Mehroz |
+| Task | Week 7 | Week 8 | Week 9 | Week 10 | Week 11 | Week 12 | Week 13 |
+| ---  | ------ | ------ | ------ | ------- | ------- | ------- | ------- |
+| Concept & User Research | Mehroz, Hui Ee | | Hui Ee | | | | |
+| Prototype | Kaho | Kaho | Kaho | Kaho | Kaho | |  |
+| Content creation | Kaho, Hui Ee | | Kaho, Hui Ee | Kaho, Hui Ee |  | Kaho, Hui Ee | |
+| Documentation | Mehroz, Kaho, Hui Ee | | Kaho, Yaxin, Hui Ee | Kaho, Yaxin, Hui Ee |  | Kaho, Yaxin, Hui Ee | Kaho, Yaxin, Hui Ee |
+| User testing | Kaho, Yaxin, Hui Ee | | Kaho, Yaxin, Hui Ee | | Kaho, Yaxin, Hui Ee | |  |
+| User interview | Kaho, Yaxin, Hui Ee | | Yaxin, Hui Ee |Yaxin | Yaxin, Hui Ee |Yaxin |  | |
+| Website implementation | | | Haoxiang | Haoxiang |  | Hui Ee | Haoxiang, Hui Ee |
+| Promotional Materials | | | |  | Mehroz | Hui Ee | Hui Ee, Yaxin |
