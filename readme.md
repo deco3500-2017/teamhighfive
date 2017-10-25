@@ -35,7 +35,7 @@ Our Website:
 [Link Here](https://deco3500-2017.github.io/teamhighfive/)
 
 Promotional Materials: 
-[A2 Poster]()
+[A2 Poster](https://github.com/deco3500-2017/teamhighfive/tree/master/POSTER)
 & 
 [Brochure](https://github.com/deco3500-2017/teamhighfive/tree/master/Borchure%20vector)
 &
