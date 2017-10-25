@@ -37,7 +37,7 @@ Our Website:
 Promotional Materials: 
 [A2 Poster]()
 & 
-[Brochure]()
+[Brochure](https://github.com/deco3500-2017/teamhighfive/tree/master/Borchure%20vector)
 &
 [Promotional Website](https://deco3500-2017.github.io/teamhighfive/promo/)
 &
