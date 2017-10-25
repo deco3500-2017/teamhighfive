@@ -49,7 +49,7 @@
           <ul class="nav navbar-nav navbar-right">
             <li><a href="index.html">Home</a></li>
             <li><a href="about.html">About</a></li>
-            <li><a href="search.html">Search</a></li>
+            <li><a href="search.html">Partner Search</a></li>
             <li><a href="forum.html">Forum</a></li>
             <li><a href="inbox.html">Inbox</a></li>
             <li><a href="contact.html">Contact</a></li>
@@ -61,7 +61,7 @@ if (customerId == undefined) {
 document.write('<li><div class="set_4_button2 raised hoverable"><div class="anim"></div><span><a href="login.html">Login</a></span> </div></li>');
 }
 else{
-document.write('<li><div class="set_4_button2 raised hoverable"><li><a href="myProfile.html">My Porfile</a></li></div></li>');
+document.write('<li><div class="set_4_button2 raised hoverable"><li><a href="myProfile.html">My Profile</a></li></div></li>');
 }
 /*用window.onload调用myfun()*/
 window.onload=myfun;//不要括号
@@ -264,19 +264,47 @@ window.onload=myfun;//不要括号
 	
 	
 	<!-- +++++ Footer Section +++++ -->
-	
-	<div id="footer">
-		<div class="container">
-					<p>
-						<a href="#">Privacy Policy  |  </a>
-						<a href="#">Terms & Conditions  |  </a>
-						<a href="#">Sitemap  |  </a>
-						<a href="#" class="fa fa-github">Github  |  </a>
-						<a href="#" class="fa fa-twitter">Twitter  |  </a>
-						<a href="#" class="fa fa-facebook">Facebook</a>
-					</p>
-		</div>
-	</div>
+  
+  <div id="footer">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-4" style="padding-left: 5%;">
+          <h4>Where to Find Us</h4>
+          <p>
+            The University of Queensland,<br/>
+            St Lucia Qld 4072, <br/>
+            Australia
+          </p>
+        </div><!-- /col-lg-4 -->
+        
+        <div class="col-lg-4" style="padding-left: 10%;">
+          <h4 style="padding-left: 10%;">Follow Us</h4>
+          <p>
+          <a href="#"><img src="img/github.png" style="width: 16px; height: 16px;">  </a>&nbsp; 
+            <a href="#"><font color="white">Github</font> </a><br/>
+            <a href="#"><img src="img/twitter.png" style="width: 16px; height: 16px;">  </a>&nbsp; 
+            <a href="#"><font color="white"> Twitter</font> </a><br/>
+            <a href="#"><img src="img/facebook.png" style="width: 16px; height: 16px;">  </a>&nbsp; 
+            <a href="#"><font color="white"> Facebook</font> </a>
+          </p>
+        </div><!-- /col-lg-4 -->
+        
+        <div class="col-lg-4" style="padding-left: 15%;">
+          <h4 style="padding-left: 15%;">Links</h4>
+          <p>
+          <a href="#"><img src="img/right.png" style="width: 16px; height: 16px;">  </a>&nbsp; 
+          <a href="index.html"><font color="white">Index</font> </a><br/>
+          <a href="#"><img src="img/right.png" style="width: 16px; height: 16px;">  </a>&nbsp; 
+          <a href="about.html"><font color="white">About</font> </a><br/>
+          <a href="#"><img src="img/right.png" style="width: 16px; height: 16px;">  </a>&nbsp; 
+          <a href="contact.html"><font color="white">Contact Us</font> </a>
+          </p>
+        </div><!-- /col-lg-4 -->
+      
+      </div>
+    <p style="padding-top: 50px; text-align: center;"> Copyright © 2017. &nbsp; <a href="#">TeamHighFive</a> &nbsp;  All rights reserved.</p>
+    </div>
+  </div>
 	
 
     <!-- Bootstrap core JavaScript
