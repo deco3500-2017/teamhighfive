@@ -40,6 +40,8 @@ Promotional Materials:
 [Brochure]()
 &
 [Promotional Website](https://deco3500-2017.github.io/teamhighfive/promo/)
+&
+[Promotional Video](https://youtu.be/TXTF7Wx25I4)
 
 ## Introduction: 
 The project entails an online social web platform that provides solution to new entrepreneurs and aspiring businessmen to reach like-minded people to team up and start a business. As part of the community dilemma, the social community makes it easy for anyone looking to start a business or learn more by communicating to other experienced business professionals.Users are able to create searchable profiles, identify their interests using unique hashtags and search potential partners using the skill matchmaking.
