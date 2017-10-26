@@ -233,3 +233,13 @@ Each member has been assigned for different tasks throughout the whole process o
 | User interview | Kaho, Yaxin, Hui Ee | | Yaxin, Hui Ee |Yaxin | Yaxin, Hui Ee |Yaxin |  | |
 | Website implementation | | | Haoxiang | Haoxiang |  | Hui Ee | Haoxiang, Hui Ee |
 | Promotional Materials | | | |  | Mehroz | Hui Ee | Hui Ee, Yaxin |
+
+## Reference:
+
+Prototype image 1 https://jobsearch.gov.au/jobseeker-info/start-your-own-business
+
+Prototype image 2 https://www.google.com.au/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwi14emLzJzWAhVKgrwKHR9wD0kQjRwIBw&url=https%3A%2F%2Fwww.wawcu.com.au%2FProducts%2FBusiness.aspx&psig=AFQjCNGnGor0_9c-5qh2Cxv-gPUNKf7lkg&ust=1505198049022909
+
+Brochure vector 1 http://clipart-library.com/clipart/8TGEyzepc.htm
+
+Brochure vector 2 https://www.shutterstock.com/zh/image-vector/target-line-icon-vector-thin-successful-515385967?src=F5hJQYMoD8DacNrVU3V7mg-1-5
