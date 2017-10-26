@@ -207,6 +207,32 @@ Once again, here is the [prototype's link](https://xd.adobe.com/view/e699f7b7-7a
 
 ## Website implementation process:
 
+You are able to find our web prototype through the following link.
+Web Prototype  [webPrototype's link](https://deco3500-2017.github.io/teamhighfive/index.html)
+Promo Page  [webPrototype's link](https://deco3500-2017.github.io/teamhighfive/promo/index.html)
+
+Our web-based prototype is mainly based on our Adobe XD digital prototype. In some features, the layout of page was slightly changed to fit the user habits. The whole project is a static website that have no database staff involved in case we only need a displayable prototype in this stage. The HTML and JavaScript was used  in this implementation.
+
+The implementation of Home page, About page, Partner Search page, Search Result page, Forum page, Forum Example page, Inbox page, Contact us page, My Profile page and Functional User Login pages is finished.
+
+![Forum](https://github.com/deco3500-2017/teamhighfive/blob/master/docs/Picture1.png)
+
+In the forum page, list of topic could be displayed. By using the search function, only part of the list will be shown.
+
+![ExampleTopic](https://github.com/deco3500-2017/teamhighfive/blob/master/docs/Picture2.png)
+
+By clicking on the topic, user will be redirect to the topic example page. The POST button is able to be clicked on to show another comment. 
+
+![SignIn](https://github.com/deco3500-2017/teamhighfive/blob/master/docs/Picture3.png)
+![LoginHome](https://github.com/deco3500-2017/teamhighfive/blob/master/docs/Picture4.png)
+
+The Sign In button is able to log user in and redirect user to the index page. We used session to track the user’s login status. If user was signed in, the link of My Profile will replace the Login button in the top right corner. 
+
+![Profile](https://github.com/deco3500-2017/teamhighfive/blob/master/docs/Picture5.png)
+
+
+In the profile page, the user is able to click on the Logout button to log out. They will never be able to get back this page unless they login again.
+
 
 ## Team Workload Distribution:
 
