@@ -269,3 +269,5 @@ Prototype image 2 https://www.google.com.au/url?sa=i&rct=j&q=&esrc=s&source=imag
 Brochure vector 1 http://clipart-library.com/clipart/8TGEyzepc.htm
 
 Brochure vector 2 https://www.shutterstock.com/zh/image-vector/target-line-icon-vector-thin-successful-515385967?src=F5hJQYMoD8DacNrVU3V7mg-1-5
+
+Poster vector: https://www.google.com.au/search?q=UQ+LOGO&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjN6r7t14_XAhUGo5QKHdA0CJEQ_AUICigB&biw=1377&bih=813#imgrc=cGhW-m6HKbNgpM
