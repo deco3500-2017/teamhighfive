@@ -262,19 +262,16 @@ Each member has been assigned for different tasks throughout the whole process o
 
 ## Reference:
 
-Prototype image 1 https://jobsearch.gov.au/jobseeker-info/start-your-own-business
+1. Clipart-library.com. (2017). Business Handshake Black Silhouette - Free Clip Art - Clip Art Library. [online] Available at: http://clipart-library.com/clipart/8TGEyzepc.htm [Accessed 27 Oct. 2017].
 
-Prototype image 2 https://www.google.com.au/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwi14emLzJzWAhVKgrwKHR9wD0kQjRwIBw&url=https%3A%2F%2Fwww.wawcu.com.au%2FProducts%2FBusiness.aspx&psig=AFQjCNGnGor0_9c-5qh2Cxv-gPUNKf7lkg&ust=1505198049022909
+2. Google.com.au. (2017). Redirect Notice. [online] Available at: https://www.google.com.au/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwi14emLzJzWAhVKgrwKHR9wD0kQjRwIBw&url=https%3A%2F%2Fwww.wawcu.com.au%2FProducts%2FBusiness.aspx&psig=AFQjCNGnGor0_9c-5qh2Cxv-gPUNKf7lkg&ust=1505198049022909 [Accessed 27 Oct. 2017].
 
-Brochure vector 1 http://clipart-library.com/clipart/8TGEyzepc.htm
+3. Google.com.au. (2017). UQ LOGO - Google Search. [online] Available at: https://www.google.com.au/search?q=UQ+LOGO&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjN6r7t14_XAhUGo5QKHdA0CJEQ_AUICigB&biw=1377&bih=813#imgrc=cGhW-m6HKbNgpM [Accessed 27 Oct. 2017].
 
-Brochure vector 2 https://www.shutterstock.com/zh/image-vector/target-line-icon-vector-thin-successful-515385967?src=F5hJQYMoD8DacNrVU3V7mg-1-5
+4. icon, L. (2017). Light bulb icon. [online] Dreamstime.com. Available at: https://www.dreamstime.com/royalty-free-stock-image-light-bulb-icon-idea-symbol-image40573236 [Accessed 27 Oct. 2017].
 
-Poster vector: https://www.google.com.au/search?q=UQ+LOGO&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjN6r7t14_XAhUGo5QKHdA0CJEQ_AUICigB&biw=1377&bih=813#imgrc=cGhW-m6HKbNgpM
+5. Jobsearch.gov.au. (2017). NEIS. [online] Available at: https://jobsearch.gov.au/jobseeker-info/start-your-own-business [Accessed 27 Oct. 2017].
 
-Video vector1:https://www.dreamstime.com/royalty-free-stock-image-light-bulb-icon-idea-symbol-image40573236
+6. Shutterstock.com. (2017). Target line icon. Vector thin line successful shoot concept symbol. Goal outline sign concept. [online] Available at: https://www.shutterstock.com/zh/image-vector/target-line-icon-vector-thin-successful-515385967?src=F5hJQYMoD8DacNrVU3V7mg-1-5 [Accessed 27 Oct. 2017].
 
-Video vector2:https://www.vectorstock.com/royalty-free-vector/leader-icon-woman-public-speaking-person-symbol-vector-14792403
-
-
-
+7. Vectors, R., Vectors, I. and Image, L. (2017). Leader icon - woman public speaking person symbol vector image on VectorStock. [online] VectorStock. Available at: https://www.vectorstock.com/royalty-free-vector/leader-icon-woman-public-speaking-person-symbol-vector-14792403 [Accessed 27 Oct. 2017].
