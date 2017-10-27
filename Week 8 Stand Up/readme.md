@@ -99,7 +99,7 @@ A filter with more choice will be definitely helpful for the user experience.
 Name | Contributions
 -- | --- 
 Hui Ee Chua | persona, user testing, survey, documentation
-Mehroz Abbasi | design mobile prototype
+Mehroz Abbasi | made the earliest web prototype, made the first persona and user testing questions, wrote the project concept and refined it from feedback.
 Haoxiang Zheng | user testing, documentation
 Kaho Ha | design web prototype, user testing, documentation
 Yaxin Cui |  persona, user interview
