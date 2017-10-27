@@ -275,3 +275,6 @@ Each member has been assigned for different tasks throughout the whole process o
 6. Shutterstock.com. (2017). Target line icon. Vector thin line successful shoot concept symbol. Goal outline sign concept. [online] Available at: https://www.shutterstock.com/zh/image-vector/target-line-icon-vector-thin-successful-515385967?src=F5hJQYMoD8DacNrVU3V7mg-1-5 [Accessed 27 Oct. 2017].
 
 7. Vectors, R., Vectors, I. and Image, L. (2017). Leader icon - woman public speaking person symbol vector image on VectorStock. [online] VectorStock. Available at: https://www.vectorstock.com/royalty-free-vector/leader-icon-woman-public-speaking-person-symbol-vector-14792403 [Accessed 27 Oct. 2017].
+
+8. Free. 2017. Transaction Free Icon. [ONLINE] Available at: https://www.onlinewebfonts.com/icon/201102. [Accessed 27 October 2017].
+
