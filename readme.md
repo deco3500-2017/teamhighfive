@@ -209,7 +209,7 @@ Once again, here is the [prototype's link](https://xd.adobe.com/view/e699f7b7-7a
 
 You are able to find our web prototype through the following link.
 Web Prototype  [webPrototype's link](https://deco3500-2017.github.io/teamhighfive/index.html)
-Promo Page  [webPrototype's link](https://deco3500-2017.github.io/teamhighfive/promo/index.html)
+Promo Page  [promoWeb's link](https://deco3500-2017.github.io/teamhighfive/promo/index.html)
 
 Our web-based prototype is mainly based on our Adobe XD digital prototype. In some features, the layout of page was slightly changed to fit the user habits. The whole project is a static website that have no database staff involved in case we only need a displayable prototype in this stage. The HTML and JavaScript was used  in this implementation.
 
