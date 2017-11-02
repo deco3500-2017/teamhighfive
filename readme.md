@@ -240,7 +240,7 @@ Each member has been assigned for different tasks throughout the whole process o
 
 **Kaho Ha:** Interview/Prototype/Testing/Documentation
 
-**Haoxiang Zheng:** Website/Testing
+**Haoxiang Zheng:** Website/Testing/Documentation
 
 **Yaxin Cui:** Interview/ Usability Testing/Documentation/Promotional Materials
 
